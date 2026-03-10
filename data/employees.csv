@@ -1,0 +1,460 @@
+tier,category,function_l1,function_l2,department,name,amount_2018
+Tier,Category,Function L1,Function L2,DEPT,Name,2018
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,15400
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,21560
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,18480
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,110000
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,13922
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,46750
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,14001
+Cost,Personnel,COGS,Cost of Product,Customer Success,,121000
+Cost,Personnel,COGS,Cost of Product,Customer Success,,93500
+Cost,Personnel,COGS,Cost of Product,Technical Support,,66194
+Cost,Personnel,COGS,Cost of Product,Technical Support,,103950
+Cost,Personnel,COGS,Cost of Product,Technical Support,,88000
+Cost,Personnel,COGS,Cost of Product,Technical Support,,47850
+Cost,Personnel,COGS,Cost of Product,Technical Support,,82500
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,104500
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,119170
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,111650
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,88000
+Cost,Personnel,OPEX,G&A,GMs & Office Admins,,77000
+Cost,Personnel,OPEX,R&D,Product Development,,141627
+Cost,Personnel,OPEX,R&D,Product Development,,192500
+Cost,Personnel,OPEX,R&D,Product Development,,101200
+Cost,Personnel,OPEX,R&D,Product Development,,139700
+Cost,Personnel,OPEX,R&D,Quality Assurance,,68200
+Cost,Personnel,OPEX,R&D,Quality Assurance,,104500
+Cost,Personnel,OPEX,R&D,Quality Assurance,,60500
+Cost,Personnel,OPEX,S&M,Marketing,,51044
+Cost,Personnel,OPEX,S&M,Marketing,,0
+Cost,Personnel,OPEX,S&M,Sales,,176000
+Cost,Personnel,OPEX,S&M,Solution Consultants,,110000
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,11000
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,15400
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,20495
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,13200
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,9944
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,10001
+Cost,Personnel,COGS,Cost of Product,Customer Success,,0
+Cost,Personnel,COGS,Cost of Product,Customer Success,,0
+Cost,Personnel,COGS,Cost of Product,Enhanced Support,,105930
+Cost,Personnel,COGS,Cost of Product,Enhanced Support,,148500
+Cost,Personnel,COGS,Cost of Product,Enhanced Support,,62880
+Cost,Personnel,COGS,Cost of Product,Enhanced Support,,48822
+Cost,Personnel,COGS,Cost of Product,Enhanced Support,,88000
+Cost,Personnel,COGS,Cost of Product,Enhanced Support,,79116
+Cost,Personnel,COGS,Cost of Product,Enhanced Support,,93500
+Cost,Personnel,COGS,Cost of Product,Enhanced Support,,68644
+Cost,Personnel,COGS,Cost of Product,Enhanced Support,,94472
+Cost,Personnel,COGS,Cost of Product,Enhanced Support,,116600
+Cost,Personnel,COGS,Cost of Product,Enhanced Support,,88000
+Cost,Personnel,COGS,Cost of PSO,Education and Training,,55915
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,141627
+Cost,Personnel,OPEX,G&A,GMs & Office Admins,,87811
+Cost,Personnel,OPEX,G&A,GMs & Office Admins,,137280
+Cost,Personnel,OPEX,R&D,Product Development,,121101
+Cost,Personnel,OPEX,R&D,Product Development,,94609
+Cost,Personnel,OPEX,R&D,Product Development,,71364
+Cost,Personnel,OPEX,R&D,Product Development,,111258
+Cost,Personnel,OPEX,R&D,Product Development,,105371
+Cost,Personnel,OPEX,R&D,Product Development,,95110
+Cost,Personnel,OPEX,R&D,Product Development,,136290
+Cost,Personnel,OPEX,R&D,Quality Assurance,,117234
+Cost,Personnel,OPEX,S&M,Marketing,,51044
+Cost,Personnel,OPEX,S&M,Marketing,,0
+Cost,Personnel,OPEX,S&M,Sales,,60500
+Cost,Personnel,OPEX,S&M,Sales,,16733
+Cost,Personnel,OPEX,S&M,Solution Consultants,,140800
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,58362
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,-150
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,-211
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,20368
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,-185
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,-136
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,-132
+Cost,Personnel,COGS,Cost of Product,Customer Success,,45905
+Cost,Personnel,COGS,Cost of Product,Customer Success,,55713
+Cost,Personnel,COGS,Cost of Product,Technical Support,,90341
+Cost,Personnel,COGS,Cost of Product,Technical Support,,44506
+Cost,Personnel,COGS,Cost of Product,Technical Support,,40740
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,90341
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,73669
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,76234
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,82570
+Cost,Personnel,OPEX,G&A,GMs & Office Admins,,20662
+Cost,Personnel,OPEX,G&A,GMs & Office Admins,,137469
+Cost,Personnel,OPEX,G&A,GMs & Office Admins,,34368
+Cost,Personnel,OPEX,R&D,Product Development,,123715
+Cost,Personnel,OPEX,R&D,Product Development,,93293
+Cost,Personnel,OPEX,R&D,Product Development,,95616
+Cost,Personnel,OPEX,R&D,Product Development,,75627
+Cost,Personnel,OPEX,R&D,Product Development,,103101
+Cost,Personnel,OPEX,R&D,Product Development,,93966
+Cost,Personnel,OPEX,R&D,Product Development,,78993
+Cost,Personnel,OPEX,R&D,Quality Assurance,,62788
+Cost,Personnel,OPEX,R&D,Quality Assurance,,47806
+Cost,Personnel,OPEX,R&D,Quality Assurance,,106594
+Cost,Personnel,OPEX,R&D,Quality Assurance,,57345
+Cost,Personnel,OPEX,S&M,Marketing,,-616
+Cost,Personnel,OPEX,S&M,Marketing,,37655
+Cost,Personnel,OPEX,S&M,Sales,,50345
+Cost,Personnel,OPEX,S&M,Sales,,33084
+Cost,Personnel,OPEX,S&M,Sales,,52875
+Cost,Personnel,OPEX,S&M,Sales,,0
+Cost,Personnel,OPEX,S&M,Sales,,0
+Cost,Personnel,OPEX,S&M,Sales,,52078
+Cost,Personnel,OPEX,S&M,Solution Consultants,,59743
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,-179907
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,96303
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,83600
+Cost,Personnel,COGS,Cost of Product,Customer Success,,121000
+Cost,Personnel,COGS,Cost of Product,Customer Success,,-101200
+Cost,Personnel,COGS,Cost of Product,Customer Success,,55000
+Cost,Personnel,COGS,Cost of Product,Customer Success,,149604
+Cost,Personnel,COGS,Cost of Product,Technical Support,,66000
+Cost,Personnel,COGS,Cost of Product,Technical Support,,87525
+Cost,Personnel,COGS,Cost of Product,Technical Support,,38500
+Cost,Personnel,COGS,Cost of Product,Technical Support,,-106757
+Cost,Personnel,COGS,Cost of Product,Technical Support,,58269
+Cost,Personnel,COGS,Cost of PSO,Education and Training,,33053
+Cost,Personnel,COGS,Cost of PSO,Education and Training,,-38636
+Cost,Personnel,COGS,Cost of PSO,Education and Training,,96078
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,37902
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,68750
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,88752
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,86737
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,-184096
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,87072
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,95700
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,106700
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,97170
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,50420
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,110871
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,103897
+Cost,Personnel,OPEX,G&A,GMs & Office Admins,,69225
+Cost,Personnel,OPEX,G&A,GMs & Office Admins,,-23074
+Cost,Personnel,OPEX,R&D,Product Development,,149248
+Cost,Personnel,OPEX,R&D,Product Development,,91907
+Cost,Personnel,OPEX,R&D,Product Development,,-114338
+Cost,Personnel,OPEX,R&D,Product Development,,60500
+Cost,Personnel,OPEX,R&D,Product Development,,110920
+Cost,Personnel,OPEX,R&D,Quality Assurance,,71500
+Cost,Personnel,OPEX,R&D,Quality Assurance,,-23835
+Cost,Personnel,OPEX,R&D,Quality Assurance,,60166
+Cost,Personnel,OPEX,S&M,Sales,,14001
+Cost,Personnel,OPEX,S&M,Sales,,51335
+Cost,Personnel,OPEX,S&M,Solution Consultants,,115500
+Cost,Personnel,OPEX,S&M,Solution Consultants,,-38500
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,15950
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,22330
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,57200
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,19140
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,14419
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,14502
+Cost,Personnel,COGS,Cost of Product,Customer Success,,49500
+Cost,Personnel,COGS,Cost of Product,Technical Support,,39657
+Cost,Personnel,COGS,Cost of Product,Technical Support,,66000
+Cost,Personnel,COGS,Cost of Product,Technical Support,,46750
+Cost,Personnel,COGS,Cost of Product,Technical Support,,51480
+Cost,Personnel,COGS,Cost of Product,Technical Support,,46200
+Cost,Personnel,COGS,Cost of Product,Technical Support,,53900
+Cost,Personnel,COGS,Cost of Product,Technical Support,,33990
+Cost,Personnel,COGS,Cost of Product,Technical Support,,43336
+Cost,Personnel,COGS,Cost of Product,Technical Support,,44000
+Cost,Personnel,COGS,Cost of PSO,Education and Training,,20627
+Cost,Personnel,COGS,Cost of PSO,Education and Training,,55000
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,79310
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,60051
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,24200
+Cost,Personnel,OPEX,G&A,Finance & Accounting,,77000
+Cost,Personnel,OPEX,G&A,GMs & Office Admins,,0
+Cost,Personnel,OPEX,G&A,GMs & Office Admins,,55000
+Cost,Personnel,OPEX,G&A,GMs & Office Admins,,23791
+Cost,Personnel,OPEX,R&D,Product Development,,107945
+Cost,Personnel,OPEX,R&D,Product Development,,66000
+Cost,Personnel,OPEX,R&D,Product Development,,79301
+Cost,Personnel,OPEX,R&D,Product Development,,102230
+Cost,Personnel,OPEX,R&D,Product Development,,79310
+Cost,Personnel,OPEX,R&D,Product Development,,82500
+Cost,Personnel,OPEX,R&D,Product Development,,73700
+Cost,Personnel,OPEX,R&D,Product Management,,77119
+Cost,Personnel,OPEX,R&D,Quality Assurance,,33990
+Cost,Personnel,OPEX,R&D,Quality Assurance,,77330
+Cost,Personnel,OPEX,S&M,Marketing,,110000
+Cost,Personnel,OPEX,S&M,Sales,,154000
+Cost,Personnel,OPEX,S&M,Sales,,77000
+Cost,Personnel,OPEX,S&M,Sales,,115500
+Cost,Personnel,OPEX,S&M,Sales,,77000
+Cost,Personnel,OPEX,S&M,Sales,,77000
+Cost,Personnel,OPEX,S&M,Sales,,73810
+Cost,Personnel,OPEX,S&M,Solution Consultants,,44035
+Cost,Personnel,OPEX,S&M,Solution Consultants,,72600
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,15180
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,21252
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,18216
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,13724
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,13798
+Cost,Personnel,COGS,Cost of Product,Customer Success,,74800
+Cost,Personnel,COGS,Cost of Product,Customer Success,,102850
+Cost,Personnel,COGS,Cost of Product,Customer Success,,100430
+Cost,Personnel,COGS,Cost of Product,Customer Success,,71500
+Cost,Personnel,COGS,Cost of Product,Customer Success,,74800
+Cost,Personnel,COGS,Cost of Product,Customer Success,,82500
+Cost,Personnel,COGS,Cost of Product,Customer Success,,110000
+Cost,Personnel,COGS,Cost of Product,Customer Success,,0
+Cost,Personnel,OPEX,G&A,GMs & Office Admins,,236500
+Cost,Personnel,OPEX,G&A,GMs & Office Admins,,55000
+Cost,Personnel,OPEX,R&D,Product Development,,49500
+Cost,Personnel,OPEX,R&D,Product Development,,132000
+Cost,Personnel,OPEX,R&D,Product Development,,121000
+Cost,Personnel,OPEX,R&D,Product Development,,132000
+Cost,Personnel,OPEX,R&D,Product Development,,169400
+Cost,Personnel,OPEX,R&D,Product Development,,143000
+Cost,Personnel,OPEX,S&M,Marketing,,90002
+Cost,Personnel,OPEX,S&M,Marketing,,5108
+Cost,Personnel,OPEX,S&M,Sales,,137500
+Cost,Personnel,OPEX,S&M,Sales,,132000
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,19800
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,27720
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,98978
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,23760
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,17899
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,46750
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,18000
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,93500
+Cost,Personnel,COGS,Cost of Product,Customer Success,,10960
+Cost,Personnel,COGS,Cost of Product,Customer Success,,110000
+Cost,Personnel,COGS,Cost of Product,Customer Success,,62841
+Cost,Personnel,COGS,Cost of Product,Customer Success,,102480
+Cost,Personnel,COGS,Cost of Product,Customer Success,,20165
+Cost,Personnel,COGS,Cost of Product,Customer Success,,0
+Cost,Personnel,COGS,Cost of Product,Customer Success,,121000
+Cost,Personnel,COGS,Cost of Product,Customer Success,,102480
+Cost,Personnel,COGS,Cost of Product,Customer Success,,0
+Cost,Personnel,COGS,Cost of Product,Customer Success,,110000
+Cost,Personnel,COGS,Cost of Product,Technical Support,,4585
+Cost,Personnel,COGS,Cost of Product,Technical Support,,65714
+Cost,Personnel,COGS,Cost of Product,Technical Support,,55603
+Cost,Personnel,COGS,Cost of Product,Technical Support,,0
+Cost,Personnel,COGS,Cost of Product,Technical Support,,24750
+Cost,Personnel,COGS,Cost of PSO,Education and Training,,100672
+Cost,Personnel,COGS,Cost of PSO,Education and Training,,49500
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,25577
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,137500
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,126500
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,98177
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,105371
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,0
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,0
+Cost,Personnel,OPEX,G&A,Finance & Accounting,,91300
+Cost,Personnel,OPEX,G&A,GMs & Office Admins,,137280
+Cost,Personnel,OPEX,R&D,Product Development,,132000
+Cost,Personnel,OPEX,R&D,Product Development,,164283
+Cost,Personnel,OPEX,R&D,Product Development,,147290
+Cost,Personnel,OPEX,R&D,Product Development,,132000
+Cost,Personnel,OPEX,R&D,Product Development,,97152
+Cost,Personnel,OPEX,R&D,Product Development,,158365
+Cost,Personnel,OPEX,R&D,Product Management,,124300
+Cost,Personnel,OPEX,R&D,Quality Assurance,,112970
+Cost,Personnel,OPEX,R&D,Quality Assurance,,99000
+Cost,Personnel,OPEX,S&M,Marketing,,65780
+Cost,Personnel,OPEX,S&M,Marketing,,55000
+Cost,Personnel,OPEX,S&M,Sales,,134011
+Cost,Personnel,OPEX,S&M,Sales,,60500
+Cost,Personnel,OPEX,S&M,Sales,,165541
+Cost,Personnel,OPEX,S&M,Sales,,16733
+Cost,Personnel,OPEX,S&M,Solution Consultants,,73823
+Cost,Personnel,OPEX,S&M,Solution Consultants,,143000
+Cost,Personnel,OPEX,S&M,Solution Consultants,,33114
+Cost,Personnel,OPEX,S&M,Solution Consultants,,0
+Cost,Personnel,OPEX,S&M,Solution Consultants,,67492
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,46957
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,58177
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,55000
+Cost,Personnel,COGS,Cost of Product,Customer Success,,0
+Cost,Personnel,COGS,Cost of Product,Customer Success,,22000
+Cost,Personnel,COGS,Cost of Product,Customer Success,,-2504
+Cost,Personnel,COGS,Cost of Product,Customer Success,,41316
+Cost,Personnel,COGS,Cost of Product,Technical Support,,0
+Cost,Personnel,COGS,Cost of Product,Technical Support,,74250
+Cost,Personnel,COGS,Cost of PSO,Education and Training,,-312
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,-1566
+Cost,Personnel,OPEX,G&A,Business Operations,,121000
+Cost,Personnel,OPEX,G&A,Business Operations,,176000
+Cost,Personnel,OPEX,G&A,Business Operations,,43930
+Cost,Personnel,OPEX,G&A,Business Operations,,50600
+Cost,Personnel,OPEX,G&A,Business Operations,,110000
+Cost,Personnel,OPEX,G&A,Corporate,,220000
+Cost,Personnel,OPEX,G&A,Corporate,,264000
+Cost,Personnel,OPEX,G&A,Corporate,,264000
+Cost,Personnel,OPEX,G&A,Corporate,,126500
+Cost,Personnel,OPEX,G&A,Corporate,,0
+Cost,Personnel,OPEX,G&A,Corporate,,121000
+Cost,Personnel,OPEX,G&A,Corporate Technology,,77000
+Cost,Personnel,OPEX,G&A,Corporate Technology,,77000
+Cost,Personnel,OPEX,G&A,Corporate Technology,,100100
+Cost,Personnel,OPEX,G&A,Enterprise Systems,,104192
+Cost,Personnel,OPEX,G&A,Enterprise Systems,,46200
+Cost,Personnel,OPEX,G&A,Enterprise Systems,,49258
+Cost,Personnel,OPEX,G&A,Enterprise Systems,,36054
+Cost,Personnel,OPEX,G&A,Enterprise Systems,,42266
+Cost,Personnel,OPEX,G&A,Enterprise Systems,,55000
+Cost,Personnel,OPEX,G&A,Enterprise Systems,,124256
+Cost,Personnel,OPEX,G&A,Enterprise Systems,,44541
+Cost,Personnel,OPEX,G&A,Finance & Accounting,,42500
+Cost,Personnel,OPEX,G&A,Finance & Accounting,,43424
+Cost,Personnel,OPEX,G&A,Finance & Accounting,,88000
+Cost,Personnel,OPEX,G&A,Finance & Accounting,,121000
+Cost,Personnel,OPEX,G&A,Finance & Accounting,,176000
+Cost,Personnel,OPEX,G&A,Finance & Accounting,,41800
+Cost,Personnel,OPEX,G&A,Finance & Accounting,,82500
+Cost,Personnel,OPEX,G&A,Finance & Accounting,,60500
+Cost,Personnel,OPEX,G&A,Finance & Accounting,,121000
+Cost,Personnel,OPEX,G&A,Finance & Accounting,,46658
+Cost,Personnel,OPEX,G&A,Finance & Accounting,,0
+Cost,Personnel,OPEX,G&A,Finance & Accounting,,88937
+Cost,Personnel,OPEX,G&A,Finance & Accounting,,82500
+Cost,Personnel,OPEX,G&A,Finance & Accounting,,156200
+Cost,Personnel,OPEX,G&A,Finance & Accounting,,35213
+Cost,Personnel,OPEX,G&A,Finance & Accounting,,96140
+Cost,Personnel,OPEX,G&A,GMs & Office Admins,,23791
+Cost,Personnel,OPEX,G&A,GMs & Office Admins,,50833
+Cost,Personnel,OPEX,G&A,GMs & Office Admins,,38619
+Cost,Personnel,OPEX,G&A,Human Resources,,39772
+Cost,Personnel,OPEX,G&A,Human Resources,,198000
+Cost,Personnel,OPEX,G&A,Human Resources,,39596
+Cost,Personnel,OPEX,G&A,Human Resources,,110000
+Cost,Personnel,OPEX,G&A,Legal,,209000
+Cost,Personnel,OPEX,G&A,Service Operations,,65622
+Cost,Personnel,OPEX,G&A,Service Operations,,181500
+Cost,Personnel,OPEX,G&A,Service Operations,,172713
+Cost,Personnel,OPEX,G&A,Service Operations,,61877
+Cost,Personnel,OPEX,R&D,Product Development,,55000
+Cost,Personnel,OPEX,R&D,Product Development,,187000
+Cost,Personnel,OPEX,R&D,Product Management,,93500
+Cost,Personnel,OPEX,R&D,Quality Assurance,,146247
+Cost,Personnel,OPEX,S&M,Marketing,,126500
+Cost,Personnel,OPEX,S&M,Marketing,,55000
+Cost,Personnel,OPEX,S&M,Marketing,,0
+Cost,Personnel,OPEX,S&M,Marketing,,90785
+Cost,Personnel,OPEX,S&M,Sales,,50054
+Cost,Personnel,OPEX,S&M,Sales,,137500
+Cost,Personnel,OPEX,S&M,Sales,,35068
+Cost,Personnel,OPEX,S&M,Sales,,24072
+Cost,Personnel,OPEX,S&M,Sales,,33084
+Cost,Personnel,OPEX,S&M,Solution Consultants,,50054
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,88000
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,32151
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,45008
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,0
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,38579
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,0
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,50125
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,56883
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,29062
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,55229
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,29251
+Cost,Personnel,COGS,Cost of Product,Customer Success,,50037
+Cost,Personnel,COGS,Cost of Product,Customer Success,,73000
+Cost,Personnel,COGS,Cost of Product,Customer Success,,110000
+Cost,Personnel,COGS,Cost of Product,Customer Success,,21529
+Cost,Personnel,COGS,Cost of Product,Customer Success,,21547
+Cost,Personnel,COGS,Cost of Product,Customer Success,,70303
+Cost,Personnel,COGS,Cost of Product,Customer Success,,28758
+Cost,Personnel,COGS,Cost of Product,Customer Success,,10974
+Cost,Personnel,COGS,Cost of Product,Customer Success,,44920
+Cost,Personnel,COGS,Cost of Product,Customer Success,,0
+Cost,Personnel,COGS,Cost of Product,Customer Success,,-28758
+Cost,Personnel,COGS,Cost of Product,Customer Success,,0
+Cost,Personnel,COGS,Cost of Product,Technical Support,,48070
+Cost,Personnel,COGS,Cost of Product,Technical Support,,40964
+Cost,Personnel,COGS,Cost of Product,Technical Support,,59479
+Cost,Personnel,COGS,Cost of Product,Technical Support,,64192
+Cost,Personnel,COGS,Cost of Product,Technical Support,,40062
+Cost,Personnel,COGS,Cost of PSO,Education and Training,,39626
+Cost,Personnel,COGS,Cost of PSO,Funded R&D,,7480
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,0
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,48686
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,47502
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,64583
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,56769
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,77673
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,88000
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,18159
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,44915
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,97020
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,0
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,-11977
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,92712
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,79380
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,64346
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,79279
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,11977
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,66845
+Cost,Personnel,OPEX,G&A,GMs & Office Admins,,39789
+Cost,Personnel,OPEX,G&A,GMs & Office Admins,,122368
+Cost,Personnel,OPEX,G&A,Service Operations,,28125
+Cost,Personnel,OPEX,R&D,Product Development,,67883
+Cost,Personnel,OPEX,R&D,Product Development,,72010
+Cost,Personnel,OPEX,R&D,Product Development,,139713
+Cost,Personnel,OPEX,R&D,Product Development,,69247
+Cost,Personnel,OPEX,R&D,Product Development,,76358
+Cost,Personnel,OPEX,R&D,Product Development,,72076
+Cost,Personnel,OPEX,R&D,Product Development,,66145
+Cost,Personnel,OPEX,R&D,Product Development,,44964
+Cost,Personnel,OPEX,R&D,Product Development,,101816
+Cost,Personnel,OPEX,R&D,Product Development,,64095
+Cost,Personnel,OPEX,R&D,Product Development,,64117
+Cost,Personnel,OPEX,R&D,Product Development,,52065
+Cost,Personnel,OPEX,R&D,Product Development,,84251
+Cost,Personnel,OPEX,R&D,Product Development,,76635
+Cost,Personnel,OPEX,R&D,Product Management,,80190
+Cost,Personnel,OPEX,R&D,Product Management,,76111
+Cost,Personnel,OPEX,R&D,Product Management,,60716
+Cost,Personnel,OPEX,R&D,Product Management,,72050
+Cost,Personnel,OPEX,R&D,Quality Assurance,,68803
+Cost,Personnel,OPEX,R&D,Quality Assurance,,52166
+Cost,Personnel,OPEX,R&D,Quality Assurance,,51520
+Cost,Personnel,OPEX,R&D,Quality Assurance,,53869
+Cost,Personnel,OPEX,R&D,Quality Assurance,,51308
+Cost,Personnel,OPEX,R&D,Quality Assurance,,41593
+Cost,Personnel,OPEX,S&M,Marketing,,77220
+Cost,Personnel,OPEX,S&M,Marketing,,52078
+Cost,Personnel,OPEX,S&M,Sales,,0
+Cost,Personnel,OPEX,S&M,Sales,,77000
+Cost,Personnel,OPEX,S&M,Sales,,0
+Cost,Personnel,OPEX,S&M,Sales,,49707
+Cost,Personnel,OPEX,S&M,Sales,,34945
+Cost,Personnel,OPEX,S&M,Sales,,37057
+Cost,Personnel,OPEX,S&M,Sales,,89456
+Cost,Personnel,OPEX,S&M,Solution Consultants,,107386
+Cost,Personnel,OPEX,S&M,Solution Consultants,,32899
+Cost,Personnel,OPEX,S&M,Solution Consultants,,-107386
+Cost,Personnel,OPEX,S&M,Solution Consultants,,64394
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,84317
+Cost,Personnel,COGS,Cost of Product,Cloud Operations,,0
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,109146
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,88981
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,176000
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,70787
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,31200
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,0
+Cost,Personnel,COGS,Cost of PSO,Professional Services,,83248
+Cost,Personnel,OPEX,G&A,GMs & Office Admins,,64258
+Cost,Personnel,OPEX,G&A,GMs & Office Admins,,197085
+Cost,Personnel,OPEX,G&A,GMs & Office Admins,,100940
+Cost,Personnel,OPEX,G&A,GMs & Office Admins,,0
+Cost,Personnel,OPEX,G&A,Service Operations,,18748
+Cost,Personnel,OPEX,R&D,Product Development,,91164
+Cost,Personnel,OPEX,R&D,Product Development,,105600
+Cost,Personnel,OPEX,R&D,Product Development,,70787
+Cost,Personnel,OPEX,R&D,Product Development,,134675
+Cost,Personnel,OPEX,R&D,Product Development,,101935
+Cost,Personnel,OPEX,R&D,Product Development,,0
+Cost,Personnel,OPEX,R&D,Product Development,,198000
+Cost,Personnel,OPEX,R&D,Product Development,,131041
+Cost,Personnel,OPEX,R&D,Product Development,,349708
+Cost,Personnel,OPEX,S&M,Sales,,64258
+Cost,Personnel,OPEX,S&M,Sales,,0
+Cost,Personnel,OPEX,S&M,Sales,,60636

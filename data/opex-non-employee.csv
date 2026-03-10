@@ -1,0 +1,1891 @@
+function_l1,function_l2,department,sub_department,vendor,amount_2018
+OPEX,G&A,Corporate Technology,Hosting,,7050
+OPEX,G&A,Enterprise Systems,Hosting,,0
+OPEX,G&A,Enterprise Systems,T&E/Other,,0
+OPEX,G&A,Finance & Accounting,Outsourced Services,,1410
+OPEX,G&A,Finance & Accounting,Outsourced Services,,282
+OPEX,G&A,Finance & Accounting,Outsourced Services,,212
+OPEX,G&A,Finance & Accounting,Outsourced Services,,118
+OPEX,G&A,Finance & Accounting,Outsourced Services,,400
+OPEX,G&A,Finance & Accounting,Outsourced Services,,118
+OPEX,G&A,G&A,Personnel,,-494
+OPEX,G&A,GMs & Office Admins,Bonus,,0
+OPEX,G&A,GMs & Office Admins,Commissions,,-7229
+OPEX,G&A,GMs & Office Admins,Hosting,,0
+OPEX,G&A,GMs & Office Admins,Occupancy,,0
+OPEX,G&A,GMs & Office Admins,Personnel,,13663
+OPEX,G&A,GMs & Office Admins,Personnel,,494
+OPEX,G&A,GMs & Office Admins,Personnel,,-43170
+OPEX,G&A,GMs & Office Admins,T&E/Other,,0
+OPEX,G&A,GMs & Office Admins,T&E/Other,,-2942
+OPEX,G&A,GMs & Office Admins,T&E/Other,,0
+OPEX,G&A,Legal,Occupancy,,1941
+OPEX,G&A,Occupancy,Occupancy,,23223
+OPEX,G&A,Occupancy,Occupancy,,438571
+OPEX,G&A,Occupancy,Occupancy,,15369
+OPEX,G&A,Occupancy,Occupancy,,-532698
+OPEX,G&A,Occupancy,Occupancy,,1043
+OPEX,G&A,Occupancy,T&E/Other,,54492
+OPEX,R&D,Product Development,Bonus,,102817
+OPEX,R&D,Product Development,Bonus,,0
+OPEX,R&D,Product Development,Commissions,,-160
+OPEX,R&D,Product Development,Dev Factory,,372804
+OPEX,R&D,Product Development,External Contractors,,0
+OPEX,R&D,Product Development,External Contractors,,6580
+OPEX,R&D,Product Development,External Contractors,,197400
+OPEX,R&D,Product Development,Occupancy,,235
+OPEX,R&D,Product Development,Occupancy,,106793
+OPEX,R&D,Product Development,Outsourced Services,,331350
+OPEX,R&D,Product Development,Outsourced Services,,1048
+OPEX,R&D,Product Development,Personnel,,15045
+OPEX,R&D,Product Development,Personnel,,27805
+OPEX,R&D,Product Development,Personnel,,43724
+OPEX,R&D,Product Development,Personnel,,3107
+OPEX,R&D,Product Development,Personnel,,14001
+OPEX,R&D,Product Development,T&E/Other,,0
+OPEX,R&D,Product Development,T&E/Other,,1692
+OPEX,R&D,Product Development,T&E/Other,,0
+OPEX,R&D,Product Development,T&E/Other,,0
+OPEX,R&D,Quality Assurance,Bonus,,8813
+OPEX,R&D,Quality Assurance,Bonus,,0
+OPEX,R&D,Quality Assurance,External Contractors,,0
+OPEX,R&D,Quality Assurance,Occupancy,,80093
+OPEX,R&D,Quality Assurance,Personnel,,32792
+OPEX,R&D,Quality Assurance,Personnel,,7905
+OPEX,R&D,Quality Assurance,Personnel,,11520
+OPEX,R&D,Quality Assurance,Personnel,,7595
+OPEX,S&M,Marketing,External Contractors,,0
+OPEX,S&M,Marketing,Marketing,,0
+OPEX,S&M,Marketing,Marketing,,212
+OPEX,S&M,Marketing,Outsourced Services,,2350
+OPEX,S&M,Marketing,Personnel,,0
+OPEX,S&M,Sales,Bad Debt Reserve,,61955
+OPEX,S&M,Sales,Bonus,,0
+OPEX,S&M,Sales,Bonus,,-17625
+OPEX,S&M,Sales,Commissions,,120720
+OPEX,S&M,Sales,Commissions,,0
+OPEX,S&M,Sales,External Contractors,,124484
+OPEX,S&M,Sales,External Contractors,,77550
+OPEX,S&M,Sales,Occupancy,,26696
+OPEX,S&M,Sales,Outsourced Services,,27260
+OPEX,S&M,Sales,Personnel,,0
+OPEX,S&M,Sales,Personnel,,10932
+OPEX,S&M,Sales,Personnel,,37910
+OPEX,S&M,Sales,T&E/Other,,-226
+OPEX,S&M,Sales,T&E/Other,,1861
+OPEX,S&M,Sales,T&E/Other,,35579
+OPEX,S&M,Sales,T&E/Other,,0
+OPEX,S&M,Solution Consultants,Occupancy,,26696
+OPEX,S&M,Solution Consultants,Personnel,,10932
+OPEX,S&M,Solution Consultants,Personnel,,18180
+OPEX,S&M,Solution Consultants,T&E/Other,,26785
+OPEX,S&M,Solution Consultants,T&E/Other,,0
+OPEX,G&A,Enterprise Systems,Hosting,,0
+OPEX,G&A,Enterprise Systems,Hosting,,2797
+OPEX,G&A,Enterprise Systems,Hosting,,1659
+OPEX,G&A,Enterprise Systems,Hosting,,0
+OPEX,G&A,Enterprise Systems,Hosting,,3737
+OPEX,G&A,Enterprise Systems,Hosting,,4991
+OPEX,G&A,Enterprise Systems,Hosting,,6669
+OPEX,G&A,Enterprise Systems,Hosting,,0
+OPEX,G&A,Enterprise Systems,Hosting,,0
+OPEX,G&A,Enterprise Systems,Occupancy,,0
+OPEX,G&A,Enterprise Systems,Outsourced Services,,5551
+OPEX,G&A,Enterprise Systems,T&E/Other,,0
+OPEX,G&A,Finance & Accounting,Outsourced Services,,362
+OPEX,G&A,Finance & Accounting,T&E/Other,,12742
+OPEX,G&A,Finance & Accounting,T&E/Other,,249
+OPEX,G&A,G&A,Occupancy,,-3079
+OPEX,G&A,G&A,Occupancy,,1034
+OPEX,G&A,G&A,Occupancy,,2049
+OPEX,G&A,G&A,T&E/Other,,-48791
+OPEX,G&A,G&A,T&E/Other,,691
+OPEX,G&A,G&A,T&E/Other,,48100
+OPEX,G&A,GMs & Office Admins,Occupancy,,0
+OPEX,G&A,GMs & Office Admins,Occupancy,,18321
+OPEX,G&A,GMs & Office Admins,Occupancy,,503
+OPEX,G&A,GMs & Office Admins,Occupancy,,-150
+OPEX,G&A,GMs & Office Admins,Occupancy,,287
+OPEX,G&A,GMs & Office Admins,Occupancy,,0
+OPEX,G&A,GMs & Office Admins,Outsourced Services,,0
+OPEX,G&A,GMs & Office Admins,Personnel,,21860
+OPEX,G&A,GMs & Office Admins,Personnel,,10129
+OPEX,G&A,GMs & Office Admins,Personnel,,14330
+OPEX,G&A,GMs & Office Admins,T&E/Other,,14
+OPEX,G&A,GMs & Office Admins,T&E/Other,,51681
+OPEX,G&A,GMs & Office Admins,T&E/Other,,1410
+OPEX,G&A,GMs & Office Admins,T&E/Other,,14326
+OPEX,G&A,GMs & Office Admins,T&E/Other,,0
+OPEX,G&A,Human Resources,Outsourced Services,,-1354
+OPEX,G&A,Information Technology,T&E/Other,,362
+OPEX,G&A,Information Technology,T&E/Other,,212
+OPEX,G&A,Legal,Occupancy,,968
+OPEX,G&A,Legal,Outsourced Services,,5555
+OPEX,G&A,Occupancy,Hosting,,1255
+OPEX,G&A,Occupancy,Hosting,,-2214
+OPEX,G&A,Occupancy,Hosting,,5852
+OPEX,G&A,Occupancy,Occupancy,,0
+OPEX,G&A,Occupancy,Occupancy,,7901
+OPEX,G&A,Occupancy,Occupancy,,0
+OPEX,G&A,Occupancy,Occupancy,,282
+OPEX,G&A,Occupancy,Occupancy,,0
+OPEX,G&A,Occupancy,Occupancy,,1795
+OPEX,G&A,Occupancy,Occupancy,,-186468
+OPEX,G&A,Occupancy,Occupancy,,0
+OPEX,G&A,Occupancy,Occupancy,,226
+OPEX,G&A,Occupancy,Occupancy,,996
+OPEX,G&A,Occupancy,Occupancy,,987
+OPEX,G&A,Occupancy,Occupancy,,1170
+OPEX,G&A,Occupancy,Occupancy,,125528
+OPEX,G&A,Occupancy,Occupancy,,785
+OPEX,G&A,Occupancy,Occupancy,,395
+OPEX,G&A,Occupancy,Occupancy,,0
+OPEX,G&A,Occupancy,Occupancy,,71
+OPEX,G&A,Occupancy,Occupancy,,1095
+OPEX,G&A,Occupancy,Occupancy,,0
+OPEX,G&A,Occupancy,Personnel,,1998
+OPEX,G&A,Occupancy,Personnel,,1001
+OPEX,G&A,Occupancy,T&E/Other,,35057
+OPEX,G&A,Occupancy,T&E/Other,,0
+OPEX,G&A,Occupancy,T&E/Other,,1471
+OPEX,G&A,Occupancy,T&E/Other,,0
+OPEX,G&A,Occupancy,T&E/Other,,837
+OPEX,R&D,Product Development,Dev Factory,,259891
+OPEX,R&D,Product Development,External Contractors,,115310
+OPEX,R&D,Product Development,Hosting,,0
+OPEX,R&D,Product Development,Occupancy,,53336
+OPEX,R&D,Product Development,Outsourced Services,,1048
+OPEX,R&D,Product Development,Personnel,,0
+OPEX,R&D,Product Development,Personnel,,14763
+OPEX,R&D,Product Development,Personnel,,11745
+OPEX,R&D,Product Development,Personnel,,8864
+OPEX,R&D,Product Development,Personnel,,12972
+OPEX,R&D,Product Development,Personnel,,76516
+OPEX,R&D,Product Development,Personnel,,12897
+OPEX,R&D,Product Development,Personnel,,11388
+OPEX,R&D,Product Development,Personnel,,16944
+OPEX,R&D,Product Development,T&E/Other,,0
+OPEX,R&D,Product Development,T&E/Other,,0
+OPEX,R&D,Product Development,T&E/Other,,705
+OPEX,R&D,Product Development,T&E/Other,,1058
+OPEX,R&D,Quality Assurance,External Contractors,,76873
+OPEX,R&D,Quality Assurance,Occupancy,,7619
+OPEX,R&D,Quality Assurance,Personnel,,10932
+OPEX,R&D,Quality Assurance,Personnel,,13997
+OPEX,S&M,Marketing,Marketing,,17625
+OPEX,S&M,Marketing,Marketing,,0
+OPEX,S&M,Marketing,Marketing,,0
+OPEX,S&M,Marketing,Marketing,,10176
+OPEX,S&M,Marketing,Occupancy,,3610
+OPEX,S&M,Marketing,Outsourced Services,,40077
+OPEX,S&M,Marketing,Personnel,,118
+OPEX,S&M,Marketing,Personnel,,0
+OPEX,S&M,Marketing,Personnel,,3252
+OPEX,S&M,Marketing,T&E/Other,,1758
+OPEX,S&M,Sales,Bad Debt Reserve,,2961
+OPEX,S&M,Sales,Commissions,,46544
+OPEX,S&M,Sales,Commissions,,0
+OPEX,S&M,Sales,External Contractors,,0
+OPEX,S&M,Sales,Marketing,,324
+OPEX,S&M,Sales,Occupancy,,0
+OPEX,S&M,Sales,Occupancy,,0
+OPEX,S&M,Sales,Outsourced Services,,26569
+OPEX,S&M,Sales,Personnel,,0
+OPEX,S&M,Sales,Personnel,,2576
+OPEX,S&M,Sales,Personnel,,3812
+OPEX,S&M,Sales,T&E/Other,,0
+OPEX,S&M,Sales,T&E/Other,,-75
+OPEX,S&M,Sales,T&E/Other,,0
+OPEX,S&M,Sales,T&E/Other,,0
+OPEX,S&M,Sales,T&E/Other,,1560
+OPEX,S&M,Sales,T&E/Other,,32529
+OPEX,S&M,Sales,T&E/Other,,0
+OPEX,S&M,Solution Consultants,Occupancy,,7619
+OPEX,S&M,Solution Consultants,Personnel,,10932
+OPEX,S&M,Solution Consultants,Personnel,,12709
+OPEX,S&M,Solution Consultants,T&E/Other,,0
+OPEX,S&M,Solution Consultants,T&E/Other,,0
+OPEX,G&A,Benefits,Personnel,,88750
+OPEX,G&A,Benefits,Personnel,,-88750
+OPEX,G&A,Corporate Technology,Hosting,,2007
+OPEX,G&A,Enterprise Systems,Hosting,,0
+OPEX,G&A,Enterprise Systems,Hosting,,216
+OPEX,G&A,Enterprise Systems,Hosting,,3144
+OPEX,G&A,Finance & Accounting,Occupancy,,122
+OPEX,G&A,Finance & Accounting,Occupancy,,28
+OPEX,G&A,Finance & Accounting,Occupancy,,61
+OPEX,G&A,Finance & Accounting,Outsourced Services,,1922
+OPEX,G&A,Finance & Accounting,Outsourced Services,,71
+OPEX,G&A,Finance & Accounting,T&E/Other,,2895
+OPEX,G&A,GMs & Office Admins,Bonus,,99386
+OPEX,G&A,GMs & Office Admins,Bonus,,0
+OPEX,G&A,GMs & Office Admins,Commissions,,4465
+OPEX,G&A,GMs & Office Admins,Commissions,,0
+OPEX,G&A,GMs & Office Admins,Occupancy,,2406
+OPEX,G&A,GMs & Office Admins,Occupancy,,1020
+OPEX,G&A,GMs & Office Admins,Occupancy,,38070
+OPEX,G&A,GMs & Office Admins,Occupancy,,310
+OPEX,G&A,GMs & Office Admins,Personnel,,1932
+OPEX,G&A,GMs & Office Admins,Personnel,,19068
+OPEX,G&A,GMs & Office Admins,Personnel,,7826
+OPEX,G&A,GMs & Office Admins,Personnel,,11139
+OPEX,G&A,GMs & Office Admins,Personnel,,4874
+OPEX,G&A,GMs & Office Admins,Personnel,,0
+OPEX,G&A,GMs & Office Admins,T&E/Other,,4512
+OPEX,G&A,GMs & Office Admins,T&E/Other,,5194
+OPEX,G&A,GMs & Office Admins,T&E/Other,,16553
+OPEX,G&A,GMs & Office Admins,T&E/Other,,616
+OPEX,G&A,Occupancy,Hosting,,484
+OPEX,G&A,Occupancy,Hosting,,0
+OPEX,G&A,Occupancy,Hosting,,2077
+OPEX,G&A,Occupancy,Occupancy,,461
+OPEX,G&A,Occupancy,Occupancy,,12939
+OPEX,G&A,Occupancy,Occupancy,,320
+OPEX,G&A,Occupancy,Occupancy,,7774
+OPEX,G&A,Occupancy,Occupancy,,2021
+OPEX,G&A,Occupancy,Occupancy,,954
+OPEX,G&A,Occupancy,Occupancy,,-219481
+OPEX,G&A,Occupancy,Occupancy,,743
+OPEX,G&A,Occupancy,Occupancy,,1217
+OPEX,G&A,Occupancy,Occupancy,,517
+OPEX,G&A,Occupancy,Occupancy,,117072
+OPEX,G&A,Occupancy,Occupancy,,18015
+OPEX,G&A,Occupancy,Outsourced Services,,1062
+OPEX,G&A,Occupancy,T&E/Other,,10114
+OPEX,G&A,Occupancy,T&E/Other,,0
+OPEX,G&A,Occupancy,T&E/Other,,4991
+OPEX,G&A,Occupancy,T&E/Other,,23519
+OPEX,G&A,Occupancy,T&E/Other,,12356
+OPEX,G&A,Occupancy,T&E/Other,,2839
+OPEX,G&A,Service Operations,Occupancy,,602
+OPEX,G&A,Service Operations,T&E/Other,,470
+OPEX,R&D,Product Development,Bonus,,43400
+OPEX,R&D,Product Development,Bonus,,0
+OPEX,R&D,Product Development,Commissions,,-17931
+OPEX,R&D,Product Development,Commissions,,0
+OPEX,R&D,Product Development,Dev Factory,,188888
+OPEX,R&D,Product Development,Hosting,,0
+OPEX,R&D,Product Development,Hosting,,1199
+OPEX,R&D,Product Development,Hosting,,635
+OPEX,R&D,Product Development,Hosting,,0
+OPEX,R&D,Product Development,Hosting,,2162
+OPEX,R&D,Product Development,Occupancy,,55314
+OPEX,R&D,Product Development,Occupancy,,926
+OPEX,R&D,Product Development,Personnel,,0
+OPEX,R&D,Product Development,Personnel,,12455
+OPEX,R&D,Product Development,Personnel,,8615
+OPEX,R&D,Product Development,Personnel,,9541
+OPEX,R&D,Product Development,Personnel,,19463
+OPEX,R&D,Product Development,Personnel,,8065
+OPEX,R&D,Product Development,Personnel,,14617
+OPEX,R&D,Product Development,Personnel,,9720
+OPEX,R&D,Product Development,Personnel,,8131
+OPEX,R&D,Product Development,Personnel,,0
+OPEX,R&D,Product Development,T&E/Other,,8046
+OPEX,R&D,Product Development,T&E/Other,,1847
+OPEX,R&D,Quality Assurance,Commissions,,3107
+OPEX,R&D,Quality Assurance,Commissions,,0
+OPEX,R&D,Quality Assurance,Occupancy,,28961
+OPEX,R&D,Quality Assurance,Personnel,,6453
+OPEX,R&D,Quality Assurance,Personnel,,4677
+OPEX,R&D,Quality Assurance,Personnel,,10730
+OPEX,R&D,Quality Assurance,Personnel,,5621
+OPEX,R&D,Quality Assurance,Personnel,,11708
+OPEX,R&D,Quality Assurance,Personnel,,0
+OPEX,S&M,Marketing,Commissions,,291
+OPEX,S&M,Marketing,Hosting,,2402
+OPEX,S&M,Marketing,Marketing,,0
+OPEX,S&M,Marketing,Marketing,,1607
+OPEX,S&M,Marketing,Marketing,,0
+OPEX,S&M,Marketing,Marketing,,20877
+OPEX,S&M,Marketing,Marketing,,0
+OPEX,S&M,Marketing,Marketing,,10740
+OPEX,S&M,Marketing,Marketing,,14
+OPEX,S&M,Marketing,Marketing,,5255
+OPEX,S&M,Marketing,Occupancy,,10293
+OPEX,S&M,Marketing,Outsourced Services,,57232
+OPEX,S&M,Marketing,Personnel,,34357
+OPEX,S&M,Marketing,Personnel,,4033
+OPEX,S&M,Marketing,Personnel,,2928
+OPEX,S&M,Marketing,Personnel,,0
+OPEX,S&M,Marketing,T&E/Other,,4056
+OPEX,S&M,Sales,Bad Debt Reserve,,-2999
+OPEX,S&M,Sales,Commissions,,130058
+OPEX,S&M,Sales,Commissions,,0
+OPEX,S&M,Sales,Commissions,,0
+OPEX,S&M,Sales,Marketing,,1720
+OPEX,S&M,Sales,Occupancy,,28961
+OPEX,S&M,Sales,Personnel,,7083
+OPEX,S&M,Sales,Personnel,,5161
+OPEX,S&M,Sales,Personnel,,8103
+OPEX,S&M,Sales,Personnel,,90917
+OPEX,S&M,Sales,Personnel,,0
+OPEX,S&M,Sales,Personnel,,11708
+OPEX,S&M,Sales,Personnel,,4503
+OPEX,S&M,Sales,Personnel,,0
+OPEX,S&M,Sales,T&E/Other,,5870
+OPEX,S&M,Sales,T&E/Other,,5805
+OPEX,S&M,Sales,T&E/Other,,9367
+OPEX,S&M,Solution Consultants,Commissions,,2435
+OPEX,S&M,Solution Consultants,Commissions,,0
+OPEX,S&M,Solution Consultants,Occupancy,,7243
+OPEX,S&M,Solution Consultants,Personnel,,6853
+OPEX,S&M,Solution Consultants,Personnel,,2928
+OPEX,S&M,Solution Consultants,Personnel,,0
+OPEX,S&M,Solution Consultants,T&E/Other,,4244
+OPEX,S&M,Solution Consultants,T&E/Other,,3831
+OPEX,G&A,Finance & Accounting,Hosting,,3816
+OPEX,G&A,Finance & Accounting,Marketing,,2209
+OPEX,G&A,Finance & Accounting,Occupancy,,71
+OPEX,G&A,Finance & Accounting,Occupancy,,197
+OPEX,G&A,Finance & Accounting,Occupancy,,931
+OPEX,G&A,Finance & Accounting,Outsourced Services,,118
+OPEX,G&A,Finance & Accounting,Outsourced Services,,160
+OPEX,G&A,Finance & Accounting,Outsourced Services,,99
+OPEX,G&A,Finance & Accounting,Outsourced Services,,1824
+OPEX,G&A,Finance & Accounting,Outsourced Services,,118
+OPEX,G&A,Finance & Accounting,T&E/Other,,54144
+OPEX,G&A,Finance & Accounting,T&E/Other,,-54144
+OPEX,G&A,Finance & Accounting,T&E/Other,,-376
+OPEX,G&A,Finance & Accounting,T&E/Other,,376
+OPEX,G&A,Finance & Accounting,T&E/Other,,6195
+OPEX,G&A,G&A,Personnel,,-494
+OPEX,G&A,G&A,T&E/Other,,4479
+OPEX,G&A,G&A,T&E/Other,,353
+OPEX,G&A,G&A,T&E/Other,,-4832
+OPEX,G&A,GMs & Office Admins,Occupancy,,1100
+OPEX,G&A,GMs & Office Admins,Occupancy,,11910
+OPEX,G&A,GMs & Office Admins,Personnel,,494
+OPEX,G&A,GMs & Office Admins,Personnel,,7407
+OPEX,G&A,GMs & Office Admins,Personnel,,4178
+OPEX,G&A,GMs & Office Admins,T&E/Other,,1058
+OPEX,G&A,GMs & Office Admins,T&E/Other,,-705
+OPEX,G&A,Occupancy,Occupancy,,761
+OPEX,G&A,Occupancy,Occupancy,,13113
+OPEX,G&A,Occupancy,Occupancy,,-343565
+OPEX,G&A,Occupancy,Occupancy,,761
+OPEX,G&A,Occupancy,Occupancy,,148605
+OPEX,G&A,Occupancy,Occupancy,,14570
+OPEX,G&A,Occupancy,T&E/Other,,105332
+OPEX,G&A,Occupancy,T&E/Other,,8460
+OPEX,G&A,Occupancy,T&E/Other,,34785
+OPEX,G&A,Occupancy,T&E/Other,,16290
+OPEX,R&D,Product Development,Bonus,,22156
+OPEX,R&D,Product Development,Bonus,,17456
+OPEX,R&D,Product Development,External Contractors,,153746
+OPEX,R&D,Product Development,External Contractors,,7238
+OPEX,R&D,Product Development,Hosting,,47
+OPEX,R&D,Product Development,Hosting,,1405
+OPEX,R&D,Product Development,Hosting,,9273
+OPEX,R&D,Product Development,Hosting,,6571
+OPEX,R&D,Product Development,Occupancy,,48598
+OPEX,R&D,Product Development,Outsourced Services,,700
+OPEX,R&D,Product Development,Personnel,,14100
+OPEX,R&D,Product Development,Personnel,,11952
+OPEX,R&D,Product Development,Personnel,,8474
+OPEX,R&D,Product Development,Personnel,,6557
+OPEX,R&D,Product Development,Personnel,,14011
+OPEX,R&D,Quality Assurance,Commissions,,2303
+OPEX,R&D,Quality Assurance,External Contractors,,76873
+OPEX,R&D,Quality Assurance,Occupancy,,23820
+OPEX,R&D,Quality Assurance,Personnel,,7675
+OPEX,R&D,Quality Assurance,Personnel,,9973
+OPEX,R&D,Quality Assurance,Personnel,,6651
+OPEX,S&M,Marketing,Commissions,,404
+OPEX,S&M,Marketing,Marketing,,1631
+OPEX,S&M,Marketing,Marketing,,15839
+OPEX,S&M,Marketing,Marketing,,7520
+OPEX,S&M,Marketing,Marketing,,-25850
+OPEX,S&M,Marketing,Marketing,,-93962
+OPEX,S&M,Marketing,Outsourced Services,,40758
+OPEX,S&M,Marketing,Personnel,,2176
+OPEX,S&M,Sales,Bad Debt Reserve,,43367
+OPEX,S&M,Sales,Commissions,,51968
+OPEX,S&M,Sales,Hosting,,28397
+OPEX,S&M,Sales,Occupancy,,11910
+OPEX,S&M,Sales,Personnel,,-5245
+OPEX,S&M,Sales,Personnel,,1753
+OPEX,S&M,Sales,Personnel,,18913
+OPEX,S&M,Sales,T&E/Other,,-193
+OPEX,S&M,Sales,T&E/Other,,170074
+OPEX,S&M,Sales,T&E/Other,,1231
+OPEX,S&M,Sales,T&E/Other,,25794
+OPEX,S&M,Solution Consultants,Occupancy,,11910
+OPEX,S&M,Solution Consultants,Personnel,,17183
+OPEX,S&M,Solution Consultants,Personnel,,197
+OPEX,S&M,Solution Consultants,T&E/Other,,22377
+OPEX,S&M,Solution Consultants,T&E/Other,,83171
+OPEX,S&M,Solution Consultants,T&E/Other,,710
+OPEX,G&A,Corporate Technology,Hosting,,230
+OPEX,G&A,Corporate Technology,Outsourced Services,,2463
+OPEX,G&A,Enterprise Systems,Hosting,,0
+OPEX,G&A,Enterprise Systems,Hosting,,644
+OPEX,G&A,Enterprise Systems,Hosting,,259
+OPEX,G&A,Enterprise Systems,Hosting,,3487
+OPEX,G&A,Enterprise Systems,Occupancy,,0
+OPEX,G&A,Enterprise Systems,Occupancy,,0
+OPEX,G&A,Enterprise Systems,T&E/Other,,0
+OPEX,G&A,Enterprise Systems,T&E/Other,,0
+OPEX,G&A,Enterprise Systems,T&E/Other,,9748
+OPEX,G&A,Enterprise Systems,T&E/Other,,35161
+OPEX,G&A,Enterprise Systems,T&E/Other,,0
+OPEX,G&A,Finance & Accounting,Occupancy,,13762
+OPEX,G&A,Finance & Accounting,Outsourced Services,,362
+OPEX,G&A,Finance & Accounting,Outsourced Services,,-719
+OPEX,G&A,Finance & Accounting,Outsourced Services,,118
+OPEX,G&A,Finance & Accounting,Outsourced Services,,127
+OPEX,G&A,Finance & Accounting,Outsourced Services,,94
+OPEX,G&A,Finance & Accounting,Outsourced Services,,-3281
+OPEX,G&A,Finance & Accounting,Outsourced Services,,569
+OPEX,G&A,Finance & Accounting,Personnel,,7294
+OPEX,G&A,Finance & Accounting,Personnel,,10932
+OPEX,G&A,Finance & Accounting,T&E/Other,,86706
+OPEX,G&A,Finance & Accounting,T&E/Other,,-86706
+OPEX,G&A,G&A,Occupancy,,-1184
+OPEX,G&A,G&A,T&E/Other,,-16224
+OPEX,G&A,GMs & Office Admins,Hosting,,0
+OPEX,G&A,GMs & Office Admins,Marketing,,0
+OPEX,G&A,GMs & Office Admins,Occupancy,,14100
+OPEX,G&A,GMs & Office Admins,Occupancy,,2449
+OPEX,G&A,GMs & Office Admins,Occupancy,,0
+OPEX,G&A,GMs & Office Admins,Occupancy,,13762
+OPEX,G&A,GMs & Office Admins,Personnel,,0
+OPEX,G&A,GMs & Office Admins,Personnel,,2209
+OPEX,G&A,GMs & Office Admins,Personnel,,10932
+OPEX,G&A,GMs & Office Admins,Personnel,,3835
+OPEX,G&A,GMs & Office Admins,T&E/Other,,164918
+OPEX,G&A,GMs & Office Admins,T&E/Other,,526
+OPEX,G&A,Legal,Occupancy,,968
+OPEX,G&A,Occupancy,Hosting,,2646
+OPEX,G&A,Occupancy,Occupancy,,0
+OPEX,G&A,Occupancy,Occupancy,,4033
+OPEX,G&A,Occupancy,Occupancy,,7595
+OPEX,G&A,Occupancy,Occupancy,,18222
+OPEX,G&A,Occupancy,Occupancy,,635
+OPEX,G&A,Occupancy,Occupancy,,846
+OPEX,G&A,Occupancy,Occupancy,,649
+OPEX,G&A,Occupancy,Occupancy,,1231
+OPEX,G&A,Occupancy,Occupancy,,2139
+OPEX,G&A,Occupancy,Occupancy,,13818
+OPEX,G&A,Occupancy,Occupancy,,10928
+OPEX,G&A,Occupancy,Occupancy,,11351
+OPEX,G&A,Occupancy,Occupancy,,19717
+OPEX,G&A,Occupancy,Occupancy,,188
+OPEX,G&A,Occupancy,Occupancy,,339613
+OPEX,G&A,Occupancy,Occupancy,,888
+OPEX,G&A,Occupancy,Occupancy,,418
+OPEX,G&A,Occupancy,Occupancy,,1363
+OPEX,G&A,Occupancy,Occupancy,,-578645
+OPEX,G&A,Occupancy,Occupancy,,649
+OPEX,G&A,Occupancy,Occupancy,,10152
+OPEX,G&A,Occupancy,Occupancy,,32345
+OPEX,G&A,Occupancy,Occupancy,,0
+OPEX,G&A,Occupancy,Occupancy,,663
+OPEX,G&A,Occupancy,Occupancy,,-207
+OPEX,G&A,Occupancy,Occupancy,,226
+OPEX,G&A,Occupancy,Occupancy,,1659
+OPEX,G&A,Occupancy,Occupancy,,0
+OPEX,G&A,Occupancy,Occupancy,,282
+OPEX,G&A,Occupancy,Occupancy,,3492
+OPEX,G&A,Occupancy,Occupancy,,11769
+OPEX,G&A,Occupancy,Occupancy,,0
+OPEX,G&A,Occupancy,Occupancy,,5222
+OPEX,G&A,Occupancy,Outsourced Services,,682
+OPEX,G&A,Occupancy,Outsourced Services,,94
+OPEX,G&A,Occupancy,Outsourced Services,,188
+OPEX,G&A,Occupancy,T&E/Other,,8855
+OPEX,G&A,Occupancy,T&E/Other,,54229
+OPEX,G&A,Occupancy,T&E/Other,,0
+OPEX,G&A,Occupancy,T&E/Other,,0
+OPEX,G&A,Occupancy,T&E/Other,,2237
+OPEX,G&A,Occupancy,T&E/Other,,13122
+OPEX,R&D,Product Development,Commissions,,-1119
+OPEX,R&D,Product Development,Dev Factory,,392403
+OPEX,R&D,Product Development,External Contractors,,218724
+OPEX,R&D,Product Development,Hosting,,0
+OPEX,R&D,Product Development,Hosting,,94000
+OPEX,R&D,Product Development,Hosting,,4695
+OPEX,R&D,Product Development,Hosting,,0
+OPEX,R&D,Product Development,Hosting,,6698
+OPEX,R&D,Product Development,Hosting,,437
+OPEX,R&D,Product Development,Hosting,,4225
+OPEX,R&D,Product Development,Hosting,,3337
+OPEX,R&D,Product Development,Hosting,,7088
+OPEX,R&D,Product Development,Hosting,,0
+OPEX,R&D,Product Development,Marketing,,0
+OPEX,R&D,Product Development,Occupancy,,0
+OPEX,R&D,Product Development,Occupancy,,86598
+OPEX,R&D,Product Development,Outsourced Services,,884
+OPEX,R&D,Product Development,Outsourced Services,,1048
+OPEX,R&D,Product Development,Personnel,,0
+OPEX,R&D,Product Development,Personnel,,9823
+OPEX,R&D,Product Development,Personnel,,6373
+OPEX,R&D,Product Development,Personnel,,7426
+OPEX,R&D,Product Development,Personnel,,10331
+OPEX,R&D,Product Development,Personnel,,6439
+OPEX,R&D,Product Development,Personnel,,70119
+OPEX,R&D,Product Development,Personnel,,7525
+OPEX,R&D,Product Development,Personnel,,6242
+OPEX,R&D,Product Development,T&E/Other,,0
+OPEX,R&D,Product Development,T&E/Other,,1589
+OPEX,R&D,Product Development,T&E/Other,,0
+OPEX,R&D,Product Development,T&E/Other,,3708
+OPEX,R&D,Product Development,T&E/Other,,3036
+OPEX,R&D,Product Development,T&E/Other,,14265
+OPEX,R&D,Product Development,T&E/Other,,0
+OPEX,R&D,Product Management,Bonus,,4700
+OPEX,R&D,Product Management,Hosting,,0
+OPEX,R&D,Product Management,Occupancy,,13762
+OPEX,R&D,Product Management,Outsourced Services,,0
+OPEX,R&D,Product Management,Personnel,,7243
+OPEX,R&D,Product Management,Personnel,,10932
+OPEX,R&D,Product Management,T&E/Other,,0
+OPEX,R&D,Quality Assurance,External Contractors,,153746
+OPEX,R&D,Quality Assurance,Occupancy,,27523
+OPEX,R&D,Quality Assurance,Personnel,,0
+OPEX,R&D,Quality Assurance,Personnel,,4719
+OPEX,R&D,Quality Assurance,Personnel,,21860
+OPEX,R&D,Quality Assurance,Personnel,,6533
+OPEX,R&D,Quality Assurance,T&E/Other,,0
+OPEX,S&M,Marketing,Hosting,,959
+OPEX,S&M,Marketing,Marketing,,9480
+OPEX,S&M,Marketing,Marketing,,0
+OPEX,S&M,Marketing,Marketing,,48880
+OPEX,S&M,Marketing,Marketing,,207
+OPEX,S&M,Marketing,Marketing,,19247
+OPEX,S&M,Marketing,Occupancy,,13762
+OPEX,S&M,Marketing,Outsourced Services,,43029
+OPEX,S&M,Marketing,Personnel,,10932
+OPEX,S&M,Marketing,Personnel,,10110
+OPEX,S&M,Marketing,T&E/Other,,0
+OPEX,S&M,Marketing,T&E/Other,,1405
+OPEX,S&M,Marketing,T&E/Other,,-19247
+OPEX,S&M,Marketing,T&E/Other,,7605
+OPEX,S&M,Sales,Bad Debt Reserve,,-1800
+OPEX,S&M,Sales,Commissions,,505640
+OPEX,S&M,Sales,Commissions,,0
+OPEX,S&M,Sales,Hosting,,34446
+OPEX,S&M,Sales,Hosting,,-129043
+OPEX,S&M,Sales,Hosting,,-57368
+OPEX,S&M,Sales,Hosting,,8225
+OPEX,S&M,Sales,Hosting,,1222
+OPEX,S&M,Sales,Marketing,,0
+OPEX,S&M,Sales,Marketing,,2350
+OPEX,S&M,Sales,Occupancy,,0
+OPEX,S&M,Sales,Occupancy,,541
+OPEX,S&M,Sales,Occupancy,,47
+OPEX,S&M,Sales,Occupancy,,813
+OPEX,S&M,Sales,Occupancy,,96336
+OPEX,S&M,Sales,Outsourced Services,,682
+OPEX,S&M,Sales,Outsourced Services,,484
+OPEX,S&M,Sales,Outsourced Services,,127
+OPEX,S&M,Sales,Outsourced Services,,658
+OPEX,S&M,Sales,Outsourced Services,,743
+OPEX,S&M,Sales,Personnel,,23331
+OPEX,S&M,Sales,Personnel,,10443
+OPEX,S&M,Sales,Personnel,,19576
+OPEX,S&M,Sales,Personnel,,12817
+OPEX,S&M,Sales,Personnel,,16422
+OPEX,S&M,Sales,Personnel,,2256
+OPEX,S&M,Sales,Personnel,,16572
+OPEX,S&M,Sales,Personnel,,76516
+OPEX,S&M,Sales,T&E/Other,,24595
+OPEX,S&M,Sales,T&E/Other,,0
+OPEX,S&M,Sales,T&E/Other,,-169
+OPEX,S&M,Sales,T&E/Other,,4996
+OPEX,S&M,Sales,T&E/Other,,3046
+OPEX,S&M,Sales,T&E/Other,,1419
+OPEX,S&M,Sales,T&E/Other,,23791
+OPEX,S&M,Sales,T&E/Other,,5156
+OPEX,S&M,Sales,T&E/Other,,3234
+OPEX,S&M,Sales,T&E/Other,,0
+OPEX,S&M,Sales,T&E/Other,,6839
+OPEX,S&M,Solution Consultants,Occupancy,,13762
+OPEX,S&M,Solution Consultants,Personnel,,3600
+OPEX,S&M,Solution Consultants,Personnel,,10932
+OPEX,S&M,Solution Consultants,Personnel,,9236
+OPEX,S&M,Solution Consultants,T&E/Other,,0
+OPEX,S&M,Solution Consultants,T&E/Other,,0
+OPEX,G&A,Finance & Accounting,External Contractors,,0
+OPEX,G&A,GMs & Office Admins,Outsourced Services,,0
+OPEX,G&A,Occupancy,Hosting,,0
+OPEX,G&A,Occupancy,Hosting,,0
+OPEX,R&D,Product Development,External Contractors,,0
+OPEX,R&D,Product Development,Hosting,,0
+OPEX,R&D,Product Development,Hosting,,0
+OPEX,R&D,Product Development,Outsourced Services,,0
+OPEX,R&D,Product Management,External Contractors,,0
+OPEX,S&M,Sales,External Contractors,,0
+OPEX,S&M,Sales,Hosting,,0
+OPEX,S&M,Sales,Outsourced Services,,0
+OPEX,G&A,Corporate,External Contractors,,0
+OPEX,G&A,Corporate,T&E/Other,,0
+OPEX,G&A,Finance & Accounting,Outsourced Services,,2139
+OPEX,G&A,Finance & Accounting,Outsourced Services,,188122
+OPEX,G&A,GMs & Office Admins,Hosting,,0
+OPEX,G&A,GMs & Office Admins,T&E/Other,,714
+OPEX,G&A,Occupancy,Occupancy,,837
+OPEX,G&A,Occupancy,Occupancy,,46967
+OPEX,G&A,Occupancy,Occupancy,,0
+OPEX,G&A,Occupancy,T&E/Other,,0
+OPEX,S&M,Marketing,Marketing,,0
+OPEX,S&M,Marketing,Occupancy,,935
+OPEX,S&M,Sales,Commissions,,1881471
+OPEX,S&M,Sales,Commissions,,0
+OPEX,S&M,Sales,Commissions,,0
+OPEX,S&M,Sales,External Contractors,,0
+OPEX,S&M,Sales,Marketing,,1137
+OPEX,S&M,Sales,Occupancy,,9109
+OPEX,S&M,Sales,Occupancy,,52565
+OPEX,S&M,Sales,Occupancy,,21150
+OPEX,S&M,Sales,Personnel,,17992
+OPEX,S&M,Sales,Personnel,,54055
+OPEX,S&M,Sales,Personnel,,20882
+OPEX,S&M,Sales,Personnel,,12737
+OPEX,S&M,Sales,Personnel,,35133
+OPEX,S&M,Sales,Personnel,,64602
+OPEX,S&M,Sales,Personnel,,12516
+OPEX,S&M,Sales,Personnel,,3793
+OPEX,S&M,Sales,Personnel,,12521
+OPEX,S&M,Sales,T&E/Other,,1716
+OPEX,S&M,Sales,T&E/Other,,3182
+OPEX,G&A,Business Operations,Hosting,,1918
+OPEX,G&A,Enterprise Systems,Hosting,,0
+OPEX,G&A,Enterprise Systems,Outsourced Services,,16887
+OPEX,G&A,Enterprise Systems,T&E/Other,,0
+OPEX,G&A,Enterprise Systems,T&E/Other,,0
+OPEX,G&A,Finance & Accounting,Outsourced Services,,94
+OPEX,G&A,Finance & Accounting,Outsourced Services,,188
+OPEX,G&A,Finance & Accounting,Outsourced Services,,6030
+OPEX,G&A,Finance & Accounting,Outsourced Services,,71
+OPEX,G&A,Finance & Accounting,Outsourced Services,,71
+OPEX,G&A,Finance & Accounting,Outsourced Services,,47
+OPEX,G&A,Finance & Accounting,Outsourced Services,,141
+OPEX,G&A,Finance & Accounting,Personnel,,259
+OPEX,G&A,Finance & Accounting,T&E/Other,,940
+OPEX,G&A,G&A,T&E/Other,,10364
+OPEX,G&A,GMs & Office Admins,Hosting,,188
+OPEX,G&A,GMs & Office Admins,Occupancy,,179
+OPEX,G&A,GMs & Office Admins,Occupancy,,25347
+OPEX,G&A,GMs & Office Admins,Outsourced Services,,0
+OPEX,G&A,GMs & Office Admins,Personnel,,49707
+OPEX,G&A,GMs & Office Admins,Personnel,,5964
+OPEX,G&A,GMs & Office Admins,Personnel,,21860
+OPEX,G&A,GMs & Office Admins,T&E/Other,,27951
+OPEX,G&A,GMs & Office Admins,T&E/Other,,780
+OPEX,G&A,GMs & Office Admins,T&E/Other,,2392
+OPEX,G&A,GMs & Office Admins,T&E/Other,,0
+OPEX,G&A,Legal,Occupancy,,2909
+OPEX,G&A,Legal,Outsourced Services,,5626
+OPEX,G&A,Occupancy,Hosting,,1396
+OPEX,G&A,Occupancy,Hosting,,1213
+OPEX,G&A,Occupancy,Occupancy,,151537
+OPEX,G&A,Occupancy,Occupancy,,813
+OPEX,G&A,Occupancy,Occupancy,,7210
+OPEX,G&A,Occupancy,Occupancy,,12356
+OPEX,G&A,Occupancy,Occupancy,,10613
+OPEX,G&A,Occupancy,Occupancy,,1551
+OPEX,G&A,Occupancy,Occupancy,,-233468
+OPEX,G&A,Occupancy,Occupancy,,282
+OPEX,G&A,Occupancy,Occupancy,,996
+OPEX,G&A,Occupancy,Occupancy,,597
+OPEX,G&A,Occupancy,Occupancy,,31020
+OPEX,G&A,Occupancy,Occupancy,,0
+OPEX,G&A,Occupancy,T&E/Other,,1415
+OPEX,G&A,Occupancy,T&E/Other,,6284
+OPEX,G&A,Occupancy,T&E/Other,,1556
+OPEX,G&A,Occupancy,T&E/Other,,3318
+OPEX,G&A,Occupancy,T&E/Other,,1311
+OPEX,R&D,Product Development,Dev Factory,,366656
+OPEX,R&D,Product Development,External Contractors,,126392
+OPEX,R&D,Product Development,External Contractors,,9541
+OPEX,R&D,Product Development,Hosting,,353
+OPEX,R&D,Product Development,Hosting,,400
+OPEX,R&D,Product Development,Hosting,,155
+OPEX,R&D,Product Development,Hosting,,2886
+OPEX,R&D,Product Development,Hosting,,268
+OPEX,R&D,Product Development,Hosting,,1128
+OPEX,R&D,Product Development,Hosting,,555
+OPEX,R&D,Product Development,Hosting,,0
+OPEX,R&D,Product Development,Occupancy,,691
+OPEX,R&D,Product Development,Occupancy,,72328
+OPEX,R&D,Product Development,Outsourced Services,,94000
+OPEX,R&D,Product Development,Personnel,,5104
+OPEX,R&D,Product Development,Personnel,,11722
+OPEX,R&D,Product Development,Personnel,,12981
+OPEX,R&D,Product Development,Personnel,,13094
+OPEX,R&D,Product Development,Personnel,,30437
+OPEX,R&D,Product Development,Personnel,,65584
+OPEX,R&D,Product Development,Personnel,,13813
+OPEX,R&D,Product Development,T&E/Other,,3050
+OPEX,R&D,Product Development,T&E/Other,,8615
+OPEX,R&D,Product Development,T&E/Other,,705
+OPEX,R&D,Product Development,T&E/Other,,3502
+OPEX,R&D,Product Development,T&E/Other,,5729
+OPEX,R&D,Product Development,T&E/Other,,20619
+OPEX,R&D,Product Development,T&E/Other,,0
+OPEX,R&D,Product Management,External Contractors,,49458
+OPEX,S&M,Marketing,Marketing,,56400
+OPEX,S&M,Marketing,Marketing,,0
+OPEX,S&M,Marketing,Marketing,,3055
+OPEX,S&M,Marketing,Marketing,,0
+OPEX,S&M,Marketing,Marketing,,1579
+OPEX,S&M,Marketing,Marketing,,6796
+OPEX,S&M,Marketing,Marketing,,23500
+OPEX,S&M,Marketing,Marketing,,1471
+OPEX,S&M,Marketing,Marketing,,0
+OPEX,S&M,Marketing,Occupancy,,273
+OPEX,S&M,Marketing,Occupancy,,11515
+OPEX,S&M,Marketing,Occupancy,,9118
+OPEX,S&M,Marketing,Outsourced Services,,14805
+OPEX,S&M,Marketing,Personnel,,8775
+OPEX,S&M,Marketing,Personnel,,555
+OPEX,S&M,Marketing,Personnel,,6397
+OPEX,S&M,Marketing,T&E/Other,,13729
+OPEX,S&M,Marketing,T&E/Other,,6481
+OPEX,S&M,Sales,Bad Debt Reserve,,371615
+OPEX,S&M,Sales,Commissions,,231358
+OPEX,S&M,Sales,Commissions,,0
+OPEX,S&M,Sales,External Contractors,,70500
+OPEX,S&M,Sales,External Contractors,,78814
+OPEX,S&M,Sales,Hosting,,7224
+OPEX,S&M,Sales,Marketing,,4080
+OPEX,S&M,Sales,Occupancy,,470
+OPEX,S&M,Sales,Occupancy,,23994
+OPEX,S&M,Sales,Personnel,,21860
+OPEX,S&M,Sales,Personnel,,16135
+OPEX,S&M,Sales,Personnel,,19477
+OPEX,S&M,Sales,T&E/Other,,-150
+OPEX,S&M,Sales,T&E/Other,,1955
+OPEX,S&M,Sales,T&E/Other,,7421
+OPEX,G&A,Benefits,Personnel,,6571
+OPEX,G&A,Benefits,Personnel,,4188
+OPEX,G&A,Benefits,Personnel,,4155
+OPEX,G&A,Benefits,Personnel,,6256
+OPEX,G&A,Benefits,Personnel,,6256
+OPEX,G&A,Benefits,Personnel,,-36646
+OPEX,G&A,Benefits,Personnel,,2966
+OPEX,G&A,Benefits,Personnel,,6256
+OPEX,G&A,Corporate,Outsourced Services,,9513
+OPEX,G&A,Corporate,T&E/Other,,94
+OPEX,G&A,Enterprise Systems,Hosting,,0
+OPEX,G&A,Enterprise Systems,Hosting,,19256
+OPEX,G&A,Enterprise Systems,T&E/Other,,0
+OPEX,G&A,Finance & Accounting,Occupancy,,1222
+OPEX,G&A,Finance & Accounting,Occupancy,,8192
+OPEX,G&A,Finance & Accounting,Outsourced Services,,19627
+OPEX,G&A,Finance & Accounting,Outsourced Services,,19209
+OPEX,G&A,Finance & Accounting,Outsourced Services,,-677
+OPEX,G&A,Finance & Accounting,Outsourced Services,,-179
+OPEX,G&A,Finance & Accounting,Outsourced Services,,141
+OPEX,G&A,Finance & Accounting,Outsourced Services,,21738
+OPEX,G&A,Finance & Accounting,Outsourced Services,,118
+OPEX,G&A,Finance & Accounting,Outsourced Services,,-536
+OPEX,G&A,Finance & Accounting,Outsourced Services,,141
+OPEX,G&A,Finance & Accounting,Outsourced Services,,-357
+OPEX,G&A,Finance & Accounting,Personnel,,10932
+OPEX,G&A,Finance & Accounting,Personnel,,9005
+OPEX,G&A,Finance & Accounting,T&E/Other,,-61537
+OPEX,G&A,GMs & Office Admins,Occupancy,,0
+OPEX,G&A,GMs & Office Admins,Occupancy,,0
+OPEX,G&A,GMs & Office Admins,Occupancy,,0
+OPEX,G&A,GMs & Office Admins,Occupancy,,6843
+OPEX,G&A,GMs & Office Admins,Outsourced Services,,0
+OPEX,G&A,GMs & Office Admins,Personnel,,14086
+OPEX,G&A,GMs & Office Admins,T&E/Other,,0
+OPEX,G&A,GMs & Office Admins,T&E/Other,,0
+OPEX,G&A,GMs & Office Admins,T&E/Other,,1058
+OPEX,G&A,Legal,Occupancy,,968
+OPEX,G&A,Occupancy,Hosting,,77851
+OPEX,G&A,Occupancy,Occupancy,,4084
+OPEX,G&A,Occupancy,Occupancy,,1255
+OPEX,G&A,Occupancy,Occupancy,,841
+OPEX,G&A,Occupancy,Occupancy,,1354
+OPEX,G&A,Occupancy,Occupancy,,0
+OPEX,G&A,Occupancy,Occupancy,,522
+OPEX,G&A,Occupancy,Occupancy,,11774
+OPEX,G&A,Occupancy,Occupancy,,160
+OPEX,G&A,Occupancy,Occupancy,,0
+OPEX,G&A,Occupancy,Occupancy,,-237717
+OPEX,G&A,Occupancy,Occupancy,,794
+OPEX,G&A,Occupancy,Occupancy,,1871
+OPEX,G&A,Occupancy,Occupancy,,151227
+OPEX,G&A,Occupancy,Occupancy,,2143
+OPEX,G&A,Occupancy,Occupancy,,-8380
+OPEX,G&A,Occupancy,Occupancy,,545
+OPEX,G&A,Occupancy,Occupancy,,122
+OPEX,G&A,Occupancy,Occupancy,,3295
+OPEX,G&A,Occupancy,Occupancy,,0
+OPEX,G&A,Occupancy,Outsourced Services,,1255
+OPEX,G&A,Occupancy,T&E/Other,,45919
+OPEX,G&A,Occupancy,T&E/Other,,0
+OPEX,G&A,Occupancy,T&E/Other,,0
+OPEX,G&A,Occupancy,T&E/Other,,0
+OPEX,G&A,Occupancy,T&E/Other,,0
+OPEX,G&A,Occupancy,T&E/Other,,18941
+OPEX,G&A,Occupancy,T&E/Other,,0
+OPEX,R&D,Product Development,Dev Factory,,511971
+OPEX,R&D,Product Development,External Contractors,,119474
+OPEX,R&D,Product Development,External Contractors,,73616
+OPEX,R&D,Product Development,External Contractors,,488001
+OPEX,R&D,Product Development,Hosting,,0
+OPEX,R&D,Product Development,Hosting,,80958
+OPEX,R&D,Product Development,Occupancy,,49162
+OPEX,R&D,Product Development,Outsourced Services,,1048
+OPEX,R&D,Product Development,Personnel,,0
+OPEX,R&D,Product Development,Personnel,,16013
+OPEX,R&D,Product Development,Personnel,,18269
+OPEX,R&D,Product Development,Personnel,,16793
+OPEX,R&D,Product Development,Personnel,,65584
+OPEX,R&D,Product Development,Personnel,,15327
+OPEX,R&D,Product Development,Personnel,,625
+OPEX,R&D,Product Development,Personnel,,13259
+OPEX,R&D,Product Development,Personnel,,15435
+OPEX,R&D,Product Development,T&E/Other,,0
+OPEX,R&D,Product Development,T&E/Other,,71
+OPEX,R&D,Product Development,T&E/Other,,1058
+OPEX,R&D,Product Development,T&E/Other,,0
+OPEX,R&D,Product Development,T&E/Other,,3878
+OPEX,R&D,Product Management,Occupancy,,8192
+OPEX,R&D,Product Management,Personnel,,10302
+OPEX,R&D,Product Management,Personnel,,10932
+OPEX,R&D,Product Management,T&E/Other,,0
+OPEX,R&D,Quality Assurance,External Contractors,,48560
+OPEX,R&D,Quality Assurance,External Contractors,,73212
+OPEX,R&D,Quality Assurance,External Contractors,,117199
+OPEX,R&D,Quality Assurance,External Contractors,,150588
+OPEX,R&D,Quality Assurance,Occupancy,,16389
+OPEX,R&D,Quality Assurance,Personnel,,14471
+OPEX,R&D,Quality Assurance,Personnel,,13085
+OPEX,R&D,Quality Assurance,Personnel,,21860
+OPEX,R&D,Quality Assurance,T&E/Other,,2115
+OPEX,S&M,Marketing,Hosting,,71
+OPEX,S&M,Marketing,Hosting,,94
+OPEX,S&M,Marketing,Marketing,,9283
+OPEX,S&M,Marketing,Marketing,,0
+OPEX,S&M,Marketing,Marketing,,-76319
+OPEX,S&M,Marketing,Marketing,,32355
+OPEX,S&M,Marketing,Occupancy,,19
+OPEX,S&M,Marketing,Occupancy,,9762
+OPEX,S&M,Marketing,Outsourced Services,,34921
+OPEX,S&M,Marketing,Personnel,,4855
+OPEX,S&M,Marketing,Personnel,,8554
+OPEX,S&M,Marketing,Personnel,,8352
+OPEX,S&M,Marketing,Personnel,,10932
+OPEX,S&M,Marketing,T&E/Other,,5137
+OPEX,S&M,Marketing,T&E/Other,,1058
+OPEX,S&M,Sales,Bad Debt Reserve,,121504
+OPEX,S&M,Sales,Bonus,,51474
+OPEX,S&M,Sales,Bonus,,0
+OPEX,S&M,Sales,Commissions,,13766
+OPEX,S&M,Sales,Commissions,,49618
+OPEX,S&M,Sales,Commissions,,17005
+OPEX,S&M,Sales,Commissions,,265691
+OPEX,S&M,Sales,Commissions,,0
+OPEX,S&M,Sales,Occupancy,,0
+OPEX,S&M,Sales,Occupancy,,6265
+OPEX,S&M,Sales,Occupancy,,1095
+OPEX,S&M,Sales,Occupancy,,3102
+OPEX,S&M,Sales,Occupancy,,10270
+OPEX,S&M,Sales,Occupancy,,0
+OPEX,S&M,Sales,Personnel,,0
+OPEX,S&M,Sales,Personnel,,77611
+OPEX,S&M,Sales,Personnel,,2251
+OPEX,S&M,Sales,Personnel,,10678
+OPEX,S&M,Sales,Personnel,,47465
+OPEX,S&M,Sales,Personnel,,34432
+OPEX,S&M,Sales,Personnel,,3812
+OPEX,S&M,Sales,T&E/Other,,0
+OPEX,S&M,Sales,T&E/Other,,52828
+OPEX,S&M,Sales,T&E/Other,,0
+OPEX,S&M,Sales,T&E/Other,,-99
+OPEX,S&M,Sales,T&E/Other,,0
+OPEX,S&M,Sales,T&E/Other,,7266
+OPEX,S&M,Sales,T&E/Other,,17921
+OPEX,S&M,Sales,T&E/Other,,35382
+OPEX,S&M,Sales,T&E/Other,,-444601
+OPEX,S&M,Sales,T&E/Other,,0
+OPEX,S&M,Solution Consultants,Commissions,,7581
+OPEX,S&M,Solution Consultants,Commissions,,620
+OPEX,S&M,Solution Consultants,Commissions,,42
+OPEX,S&M,Solution Consultants,Occupancy,,13780
+OPEX,S&M,Solution Consultants,Occupancy,,277
+OPEX,S&M,Solution Consultants,Personnel,,10975
+OPEX,S&M,Solution Consultants,Personnel,,13212
+OPEX,S&M,Solution Consultants,Personnel,,6632
+OPEX,S&M,Solution Consultants,Personnel,,0
+OPEX,S&M,Solution Consultants,Personnel,,27096
+OPEX,S&M,Solution Consultants,Personnel,,16008
+OPEX,S&M,Solution Consultants,Personnel,,0
+OPEX,S&M,Solution Consultants,T&E/Other,,0
+OPEX,S&M,Solution Consultants,T&E/Other,,34479
+OPEX,S&M,Solution Consultants,T&E/Other,,10895
+OPEX,S&M,Solution Consultants,T&E/Other,,4540
+OPEX,S&M,Solution Consultants,T&E/Other,,-145348
+OPEX,S&M,Solution Consultants,T&E/Other,,11689
+OPEX,S&M,Solution Consultants,T&E/Other,,0
+OPEX,G&A,Benefits,Personnel,,-362
+OPEX,G&A,Benefits,Personnel,,-5457
+OPEX,G&A,Benefits,Personnel,,-3694
+OPEX,G&A,Benefits,Personnel,,-381
+OPEX,G&A,Benefits,Personnel,,-1697
+OPEX,G&A,Benefits,Personnel,,294051
+OPEX,G&A,Benefits,Personnel,,-155
+OPEX,G&A,Benefits,Personnel,,-776
+OPEX,G&A,Benefits,Personnel,,-592
+OPEX,G&A,Benefits,Personnel,,-409
+OPEX,G&A,Benefits,Personnel,,-437
+OPEX,G&A,Benefits,Personnel,,-1509
+OPEX,G&A,Benefits,Personnel,,-1565
+OPEX,G&A,Benefits,Personnel,,-555
+OPEX,G&A,Benefits,Personnel,,-3610
+OPEX,G&A,Benefits,Personnel,,-1565
+OPEX,G&A,Benefits,Personnel,,-2129
+OPEX,G&A,Benefits,Personnel,,-155
+OPEX,G&A,Benefits,Personnel,,-320
+OPEX,G&A,Benefits,Personnel,,-592
+OPEX,G&A,Benefits,Personnel,,-381
+OPEX,G&A,Benefits,Personnel,,-451
+OPEX,G&A,Benefits,Personnel,,2306459
+OPEX,G&A,Benefits,Personnel,,-155
+OPEX,G&A,Benefits,Personnel,,-6796
+OPEX,G&A,Benefits,Personnel,,-592
+OPEX,G&A,Benefits,Personnel,,-7238
+OPEX,G&A,Benefits,Personnel,,-99
+OPEX,G&A,Benefits,Personnel,,-1137
+OPEX,G&A,Benefits,Personnel,,-155
+OPEX,G&A,Benefits,Personnel,,-592
+OPEX,G&A,Benefits,Personnel,,-367
+OPEX,G&A,Benefits,Personnel,,-155
+OPEX,G&A,Benefits,Personnel,,-2491
+OPEX,G&A,Benefits,Personnel,,173129
+OPEX,G&A,Benefits,Personnel,,-1011
+OPEX,G&A,Benefits,Personnel,,-155
+OPEX,G&A,Benefits,Personnel,,-4973
+OPEX,G&A,Benefits,Personnel,,-832
+OPEX,G&A,Benefits,Personnel,,-155
+OPEX,G&A,Benefits,Personnel,,-155
+OPEX,G&A,Benefits,Personnel,,-5175
+OPEX,G&A,Benefits,Personnel,,-2129
+OPEX,G&A,Benefits,Personnel,,-5438
+OPEX,G&A,Benefits,Personnel,,-1565
+OPEX,G&A,Benefits,Personnel,,-2811
+OPEX,G&A,Benefits,Personnel,,-1161
+OPEX,G&A,Benefits,Personnel,,15722
+OPEX,G&A,Benefits,Personnel,,-4009
+OPEX,G&A,Benefits,Personnel,,-818
+OPEX,G&A,Benefits,Personnel,,-714
+OPEX,G&A,Benefits,Personnel,,-5175
+OPEX,G&A,Benefits,Personnel,,-5429
+OPEX,G&A,Benefits,Personnel,,-2181
+OPEX,G&A,Benefits,Personnel,,-155
+OPEX,G&A,Benefits,Personnel,,-592
+OPEX,G&A,Benefits,Personnel,,-141
+OPEX,G&A,Benefits,Personnel,,-1565
+OPEX,G&A,Benefits,Personnel,,-155
+OPEX,G&A,Benefits,Personnel,,-103
+OPEX,G&A,Benefits,Personnel,,-155
+OPEX,G&A,Benefits,Personnel,,-658
+OPEX,G&A,Benefits,Personnel,,-592
+OPEX,G&A,Benefits,Personnel,,-381
+OPEX,G&A,Benefits,Personnel,,-592
+OPEX,G&A,Benefits,Personnel,,-1565
+OPEX,G&A,Benefits,Personnel,,-451
+OPEX,G&A,Benefits,Personnel,,-3257
+OPEX,G&A,Benefits,Personnel,,-409
+OPEX,G&A,Benefits,Personnel,,1875
+OPEX,G&A,Benefits,Personnel,,-592
+OPEX,G&A,Benefits,Personnel,,-207
+OPEX,G&A,Benefits,Personnel,,-3130
+OPEX,G&A,Benefits,Personnel,,-851
+OPEX,G&A,Benefits,Personnel,,-508
+OPEX,G&A,Benefits,Personnel,,-155
+OPEX,G&A,Benefits,Personnel,,-381
+OPEX,G&A,Benefits,Personnel,,-2129
+OPEX,G&A,Benefits,Personnel,,-155
+OPEX,G&A,Benefits,Personnel,,-6796
+OPEX,G&A,Benefits,Personnel,,-592
+OPEX,G&A,Benefits,Personnel,,-1043
+OPEX,G&A,Benefits,Personnel,,-536
+OPEX,G&A,Benefits,Personnel,,-155
+OPEX,G&A,Benefits,Personnel,,-296
+OPEX,G&A,Benefits,Personnel,,-1072
+OPEX,G&A,Benefits,Personnel,,-536
+OPEX,G&A,Benefits,Personnel,,-592
+OPEX,G&A,Benefits,Personnel,,-4540
+OPEX,G&A,Benefits,Personnel,,-381
+OPEX,G&A,Benefits,Personnel,,-4583
+OPEX,G&A,Benefits,Personnel,,-99
+OPEX,G&A,Benefits,Personnel,,-592
+OPEX,G&A,Benefits,Personnel,,-136
+OPEX,G&A,Benefits,Personnel,,-3074
+OPEX,G&A,Benefits,Personnel,,-381
+OPEX,G&A,Benefits,Personnel,,-5447
+OPEX,G&A,Benefits,Personnel,,-691
+OPEX,G&A,Benefits,Personnel,,-183
+OPEX,G&A,Benefits,Personnel,,-268
+OPEX,G&A,Benefits,Personnel,,-155
+OPEX,G&A,Benefits,Personnel,,-103
+OPEX,G&A,Benefits,Personnel,,-1565
+OPEX,G&A,Benefits,Personnel,,-1565
+OPEX,G&A,Benefits,Personnel,,-1424
+OPEX,G&A,Benefits,Personnel,,-2030
+OPEX,G&A,Benefits,Personnel,,-592
+OPEX,G&A,Benefits,Personnel,,-52
+OPEX,G&A,Benefits,Personnel,,-1565
+OPEX,G&A,Benefits,Personnel,,-1565
+OPEX,G&A,Benefits,Personnel,,-99
+OPEX,G&A,Benefits,Personnel,,-451
+OPEX,G&A,Benefits,Personnel,,-1565
+OPEX,G&A,Benefits,Personnel,,-1565
+OPEX,G&A,Benefits,Personnel,,-343
+OPEX,G&A,Benefits,Personnel,,-5424
+OPEX,G&A,Benefits,Personnel,,-155
+OPEX,G&A,Benefits,Personnel,,-381
+OPEX,G&A,Benefits,Personnel,,-592
+OPEX,G&A,Benefits,Personnel,,-155
+OPEX,G&A,Benefits,Personnel,,-155
+OPEX,G&A,Benefits,Personnel,,-409
+OPEX,G&A,Benefits,Personnel,,-6796
+OPEX,G&A,Benefits,Personnel,,-254
+OPEX,G&A,Benefits,Personnel,,-592
+OPEX,G&A,Benefits,Personnel,,-155
+OPEX,G&A,Benefits,Personnel,,-155
+OPEX,G&A,Benefits,Personnel,,-381
+OPEX,G&A,Benefits,Personnel,,-592
+OPEX,G&A,Benefits,Personnel,,-2129
+OPEX,G&A,Benefits,Personnel,,-2129
+OPEX,G&A,Benefits,Personnel,,-155
+OPEX,G&A,Benefits,Personnel,,-155
+OPEX,G&A,Benefits,Personnel,,-1034
+OPEX,G&A,Benefits,Personnel,,-592
+OPEX,G&A,Benefits,Personnel,,-367
+OPEX,G&A,Benefits,Personnel,,-710
+OPEX,G&A,Benefits,Personnel,,-592
+OPEX,G&A,Benefits,Personnel,,-592
+OPEX,G&A,Benefits,Personnel,,-1819
+OPEX,G&A,Benefits,Personnel,,-898
+OPEX,G&A,Benefits,Personnel,,-855
+OPEX,G&A,Benefits,Personnel,,-2459035
+OPEX,G&A,Benefits,Personnel,,-155
+OPEX,G&A,Benefits,Personnel,,-1889
+OPEX,G&A,Benefits,Personnel,,-1565
+OPEX,G&A,Benefits,Personnel,,-6655
+OPEX,G&A,Benefits,Personnel,,-3694
+OPEX,G&A,Benefits,Personnel,,-395
+OPEX,G&A,Benefits,Personnel,,-296
+OPEX,G&A,Benefits,Personnel,,-592
+OPEX,G&A,Benefits,Personnel,,-635
+OPEX,G&A,Benefits,Personnel,,-3017
+OPEX,G&A,Benefits,Personnel,,-155
+OPEX,G&A,Benefits,Personnel,,-1777
+OPEX,G&A,Benefits,Personnel,,-592
+OPEX,G&A,Benefits,Personnel,,-5494
+OPEX,G&A,Benefits,Personnel,,-635
+OPEX,G&A,Benefits,Personnel,,-1565
+OPEX,G&A,Benefits,Personnel,,-5781
+OPEX,G&A,Benefits,Personnel,,-5532
+OPEX,G&A,Benefits,Personnel,,-2073
+OPEX,G&A,Benefits,Personnel,,-592
+OPEX,G&A,Benefits,Personnel,,-362
+OPEX,G&A,Benefits,Personnel,,-273
+OPEX,G&A,Benefits,Personnel,,-155
+OPEX,G&A,Benefits,Personnel,,-301
+OPEX,G&A,Benefits,Personnel,,-85
+OPEX,G&A,Benefits,Personnel,,-3694
+OPEX,G&A,Benefits,Personnel,,-6030
+OPEX,G&A,Benefits,Personnel,,-99
+OPEX,G&A,Benefits,Personnel,,-4893
+OPEX,G&A,Benefits,Personnel,,-353
+OPEX,G&A,Benefits,Personnel,,-3215
+OPEX,G&A,Benefits,Personnel,,-592
+OPEX,G&A,Benefits,Personnel,,-761
+OPEX,G&A,Benefits,Personnel,,-273
+OPEX,G&A,Benefits,Personnel,,-437
+OPEX,G&A,Benefits,Personnel,,-451
+OPEX,G&A,Benefits,Personnel,,-592
+OPEX,G&A,Benefits,Personnel,,-7102
+OPEX,G&A,Benefits,Personnel,,-381
+OPEX,G&A,Benefits,Personnel,,-592
+OPEX,G&A,Benefits,Personnel,,-226
+OPEX,G&A,Benefits,Personnel,,-837
+OPEX,G&A,Benefits,Personnel,,-5034
+OPEX,G&A,Benefits,Personnel,,-4573
+OPEX,G&A,Benefits,Personnel,,-592
+OPEX,G&A,Benefits,Personnel,,-494
+OPEX,G&A,Benefits,Personnel,,-6796
+OPEX,G&A,Benefits,Personnel,,-7957
+OPEX,G&A,Benefits,Personnel,,-5344
+OPEX,G&A,Benefits,Personnel,,-3450
+OPEX,G&A,Benefits,Personnel,,-785
+OPEX,G&A,Benefits,Personnel,,414
+OPEX,G&A,Benefits,Personnel,,-5917
+OPEX,G&A,Benefits,Personnel,,-6796
+OPEX,G&A,Benefits,Personnel,,-5175
+OPEX,G&A,Benefits,Personnel,,-2745
+OPEX,G&A,Benefits,Personnel,,-85
+OPEX,G&A,Benefits,Personnel,,-5175
+OPEX,G&A,Benefits,Personnel,,-244
+OPEX,G&A,Benefits,Personnel,,-451
+OPEX,G&A,Benefits,Personnel,,-254
+OPEX,G&A,Benefits,Personnel,,3821
+OPEX,G&A,Benefits,Personnel,,-1288
+OPEX,G&A,Benefits,Personnel,,-56
+OPEX,G&A,Benefits,Personnel,,-362
+OPEX,G&A,Benefits,Personnel,,-592
+OPEX,G&A,Benefits,Personnel,,-99
+OPEX,G&A,Benefits,Personnel,,-1509
+OPEX,G&A,Benefits,Personnel,,-155
+OPEX,G&A,Benefits,Personnel,,-296
+OPEX,G&A,Benefits,Personnel,,-550
+OPEX,G&A,Benefits,Personnel,,-592
+OPEX,G&A,Benefits,Personnel,,-409
+OPEX,G&A,Benefits,Personnel,,-4893
+OPEX,G&A,Benefits,Personnel,,-409
+OPEX,G&A,Benefits,Personnel,,-592
+OPEX,G&A,Benefits,Personnel,,-296
+OPEX,G&A,Benefits,Personnel,,-592
+OPEX,G&A,Benefits,Personnel,,-1565
+OPEX,G&A,Benefits,Personnel,,-1419
+OPEX,G&A,Business Operations,External Contractors,,75078
+OPEX,G&A,Business Operations,Hosting,,0
+OPEX,G&A,Business Operations,Hosting,,0
+OPEX,G&A,Business Operations,Hosting,,11059
+OPEX,G&A,Business Operations,Hosting,,0
+OPEX,G&A,Business Operations,Hosting,,158005
+OPEX,G&A,Business Operations,Occupancy,,0
+OPEX,G&A,Business Operations,Occupancy,,101290
+OPEX,G&A,Business Operations,Occupancy,,592
+OPEX,G&A,Business Operations,Outsourced Services,,0
+OPEX,G&A,Business Operations,Outsourced Services,,0
+OPEX,G&A,Business Operations,Outsourced Services,,2543
+OPEX,G&A,Business Operations,Outsourced Services,,14448
+OPEX,G&A,Business Operations,Personnel,,10072
+OPEX,G&A,Business Operations,Personnel,,14913
+OPEX,G&A,Business Operations,Personnel,,54652
+OPEX,G&A,Business Operations,Personnel,,0
+OPEX,G&A,Business Operations,Personnel,,5231
+OPEX,G&A,Business Operations,Personnel,,4554
+OPEX,G&A,Business Operations,Personnel,,9433
+OPEX,G&A,Business Operations,T&E/Other,,74594
+OPEX,G&A,Business Operations,T&E/Other,,-5758
+OPEX,G&A,Business Operations,T&E/Other,,5758
+OPEX,G&A,Corporate,External Contractors,,18495
+OPEX,G&A,Corporate,External Contractors,,0
+OPEX,G&A,Corporate,External Contractors,,0
+OPEX,G&A,Corporate,Hosting,,32754
+OPEX,G&A,Corporate,Hosting,,1763
+OPEX,G&A,Corporate,Marketing,,6585
+OPEX,G&A,Corporate,Marketing,,44697
+OPEX,G&A,Corporate,Marketing,,5523
+OPEX,G&A,Corporate,Occupancy,,-724
+OPEX,G&A,Corporate,Occupancy,,2585
+OPEX,G&A,Corporate,Occupancy,,1184
+OPEX,G&A,Corporate,Occupancy,,104937
+OPEX,G&A,Corporate,Outsourced Services,,105750
+OPEX,G&A,Corporate,Outsourced Services,,24440
+OPEX,G&A,Corporate,Outsourced Services,,0
+OPEX,G&A,Corporate,Outsourced Services,,11985
+OPEX,G&A,Corporate,Outsourced Services,,386575
+OPEX,G&A,Corporate,Outsourced Services,,309213
+OPEX,G&A,Corporate,Outsourced Services,,52875
+OPEX,G&A,Corporate,Outsourced Services,,64625
+OPEX,G&A,Corporate,Outsourced Services,,0
+OPEX,G&A,Corporate,Outsourced Services,,28200
+OPEX,G&A,Corporate,Outsourced Services,,44063
+OPEX,G&A,Corporate,Outsourced Services,,2820
+OPEX,G&A,Corporate,Outsourced Services,,52875
+OPEX,G&A,Corporate,Outsourced Services,,58755
+OPEX,G&A,Corporate,Outsourced Services,,681279
+OPEX,G&A,Corporate,Outsourced Services,,146184
+OPEX,G&A,Corporate,Personnel,,17691
+OPEX,G&A,Corporate,Personnel,,21568
+OPEX,G&A,Corporate,Personnel,,21968
+OPEX,G&A,Corporate,Personnel,,175413
+OPEX,G&A,Corporate,Personnel,,10594
+OPEX,G&A,Corporate,Personnel,,0
+OPEX,G&A,Corporate,Personnel,,24210
+OPEX,G&A,Corporate,T&E/Other,,15266
+OPEX,G&A,Corporate,T&E/Other,,0
+OPEX,G&A,Corporate,T&E/Other,,-46427
+OPEX,G&A,Corporate,T&E/Other,,5950
+OPEX,G&A,Corporate,T&E/Other,,75910
+OPEX,G&A,Corporate,T&E/Other,,114746
+OPEX,G&A,Corporate,T&E/Other,,235
+OPEX,G&A,Corporate,T&E/Other,,0
+OPEX,G&A,Corporate Technology,Hosting,,0
+OPEX,G&A,Corporate Technology,Hosting,,98583
+OPEX,G&A,Corporate Technology,Hosting,,92820
+OPEX,G&A,Corporate Technology,Hosting,,0
+OPEX,G&A,Corporate Technology,Occupancy,,67614
+OPEX,G&A,Corporate Technology,Outsourced Services,,0
+OPEX,G&A,Corporate Technology,Personnel,,13663
+OPEX,G&A,Corporate Technology,Personnel,,2308
+OPEX,G&A,Corporate Technology,Personnel,,36044
+OPEX,G&A,Corporate Technology,Personnel,,7008
+OPEX,G&A,Corporate Technology,Personnel,,9818
+OPEX,G&A,Corporate Technology,T&E/Other,,4197
+OPEX,G&A,Corporate Technology,T&E/Other,,0
+OPEX,G&A,Corporate Technology,T&E/Other,,108
+OPEX,G&A,Corporate Technology,T&E/Other,,5518
+OPEX,G&A,Corporate Technology,T&E/Other,,-25991
+OPEX,G&A,Enterprise Systems,Commissions,,3478
+OPEX,G&A,Enterprise Systems,Hosting,,0
+OPEX,G&A,Enterprise Systems,Hosting,,24313
+OPEX,G&A,Enterprise Systems,Hosting,,197
+OPEX,G&A,Enterprise Systems,Hosting,,12056
+OPEX,G&A,Enterprise Systems,Hosting,,126938
+OPEX,G&A,Enterprise Systems,Hosting,,157920
+OPEX,G&A,Enterprise Systems,Hosting,,0
+OPEX,G&A,Enterprise Systems,Hosting,,1166
+OPEX,G&A,Enterprise Systems,Occupancy,,116884
+OPEX,G&A,Enterprise Systems,Personnel,,13856
+OPEX,G&A,Enterprise Systems,Personnel,,7421
+OPEX,G&A,Enterprise Systems,Personnel,,6698
+OPEX,G&A,Enterprise Systems,Personnel,,4756
+OPEX,G&A,Enterprise Systems,Personnel,,4136
+OPEX,G&A,Enterprise Systems,Personnel,,2209
+OPEX,G&A,Enterprise Systems,Personnel,,62331
+OPEX,G&A,Enterprise Systems,Personnel,,10942
+OPEX,G&A,Enterprise Systems,Personnel,,4738
+OPEX,G&A,Enterprise Systems,Personnel,,0
+OPEX,G&A,Enterprise Systems,T&E/Other,,0
+OPEX,G&A,Enterprise Systems,T&E/Other,,0
+OPEX,G&A,Enterprise Systems,T&E/Other,,10918
+OPEX,G&A,Enterprise Systems,T&E/Other,,212
+OPEX,G&A,Enterprise Systems,T&E/Other,,0
+OPEX,G&A,Enterprise Systems,T&E/Other,,16483
+OPEX,G&A,Finance & Accounting,Commissions,,-4098
+OPEX,G&A,Finance & Accounting,External Contractors,,7398
+OPEX,G&A,Finance & Accounting,External Contractors,,95288
+OPEX,G&A,Finance & Accounting,External Contractors,,43264
+OPEX,G&A,Finance & Accounting,External Contractors,,383520
+OPEX,G&A,Finance & Accounting,Hosting,,21131
+OPEX,G&A,Finance & Accounting,Hosting,,1307
+OPEX,G&A,Finance & Accounting,Hosting,,2256
+OPEX,G&A,Finance & Accounting,Hosting,,2350
+OPEX,G&A,Finance & Accounting,Hosting,,159123
+OPEX,G&A,Finance & Accounting,Hosting,,423
+OPEX,G&A,Finance & Accounting,Hosting,,34094
+OPEX,G&A,Finance & Accounting,Occupancy,,0
+OPEX,G&A,Finance & Accounting,Occupancy,,1372
+OPEX,G&A,Finance & Accounting,Occupancy,,291
+OPEX,G&A,Finance & Accounting,Occupancy,,10293
+OPEX,G&A,Finance & Accounting,Occupancy,,5875
+OPEX,G&A,Finance & Accounting,Occupancy,,310
+OPEX,G&A,Finance & Accounting,Occupancy,,223645
+OPEX,G&A,Finance & Accounting,Occupancy,,26832
+OPEX,G&A,Finance & Accounting,Occupancy,,0
+OPEX,G&A,Finance & Accounting,Outsourced Services,,0
+OPEX,G&A,Finance & Accounting,Outsourced Services,,106667
+OPEX,G&A,Finance & Accounting,Outsourced Services,,93079
+OPEX,G&A,Finance & Accounting,Outsourced Services,,23594
+OPEX,G&A,Finance & Accounting,Outsourced Services,,7468
+OPEX,G&A,Finance & Accounting,Outsourced Services,,262801
+OPEX,G&A,Finance & Accounting,Outsourced Services,,60983
+OPEX,G&A,Finance & Accounting,Outsourced Services,,89784
+OPEX,G&A,Finance & Accounting,Outsourced Services,,24365
+OPEX,G&A,Finance & Accounting,Outsourced Services,,372513
+OPEX,G&A,Finance & Accounting,Outsourced Services,,-357
+OPEX,G&A,Finance & Accounting,Outsourced Services,,9433
+OPEX,G&A,Finance & Accounting,Personnel,,3892
+OPEX,G&A,Finance & Accounting,Personnel,,5908
+OPEX,G&A,Finance & Accounting,Personnel,,7732
+OPEX,G&A,Finance & Accounting,Personnel,,10711
+OPEX,G&A,Finance & Accounting,Personnel,,14565
+OPEX,G&A,Finance & Accounting,Personnel,,4296
+OPEX,G&A,Finance & Accounting,Personnel,,6989
+OPEX,G&A,Finance & Accounting,Personnel,,5278
+OPEX,G&A,Finance & Accounting,Personnel,,10335
+OPEX,G&A,Finance & Accounting,Personnel,,7027
+OPEX,G&A,Finance & Accounting,Personnel,,0
+OPEX,G&A,Finance & Accounting,Personnel,,8629
+OPEX,G&A,Finance & Accounting,Personnel,,125424
+OPEX,G&A,Finance & Accounting,Personnel,,6881
+OPEX,G&A,Finance & Accounting,Personnel,,12756
+OPEX,G&A,Finance & Accounting,Personnel,,4803
+OPEX,G&A,Finance & Accounting,Personnel,,8469
+OPEX,G&A,Finance & Accounting,Personnel,,0
+OPEX,G&A,Finance & Accounting,T&E/Other,,846
+OPEX,G&A,Finance & Accounting,T&E/Other,,-2082
+OPEX,G&A,Finance & Accounting,T&E/Other,,2045
+OPEX,G&A,Finance & Accounting,T&E/Other,,-2045
+OPEX,G&A,Finance & Accounting,T&E/Other,,80398
+OPEX,G&A,Finance & Accounting,T&E/Other,,6430
+OPEX,G&A,Finance & Accounting,T&E/Other,,12516
+OPEX,G&A,Finance & Accounting,T&E/Other,,240
+OPEX,G&A,Finance & Accounting,T&E/Other,,1058
+OPEX,G&A,Finance & Accounting,T&E/Other,,705
+OPEX,G&A,Finance & Accounting,T&E/Other,,-401761
+OPEX,G&A,Finance & Accounting,T&E/Other,,-1880
+OPEX,G&A,Finance & Accounting,T&E/Other,,-1946
+OPEX,G&A,Finance & Accounting,T&E/Other,,4474
+OPEX,G&A,Finance & Accounting,T&E/Other,,541
+OPEX,G&A,G&A,Occupancy,,2674
+OPEX,G&A,G&A,Occupancy,,724
+OPEX,G&A,G&A,Occupancy,,-52
+OPEX,G&A,G&A,Occupancy,,-3403
+OPEX,G&A,G&A,Personnel,,940
+OPEX,G&A,G&A,Personnel,,597
+OPEX,G&A,G&A,Personnel,,-1537
+OPEX,G&A,G&A,T&E/Other,,-14401
+OPEX,G&A,G&A,T&E/Other,,5758
+OPEX,G&A,G&A,T&E/Other,,6129
+OPEX,G&A,G&A,T&E/Other,,47776
+OPEX,G&A,G&A,T&E/Other,,522
+OPEX,G&A,G&A,T&E/Other,,-11788
+OPEX,G&A,G&A,T&E/Other,,4620
+OPEX,G&A,G&A,T&E/Other,,-6909
+OPEX,G&A,G&A,T&E/Other,,677
+OPEX,G&A,G&A,T&E/Other,,-30527
+OPEX,G&A,G&A,T&E/Other,,-66529
+OPEX,G&A,GMs & Office Admins,Commissions,,2322
+OPEX,G&A,GMs & Office Admins,Occupancy,,3027
+OPEX,G&A,GMs & Office Admins,Occupancy,,118
+OPEX,G&A,GMs & Office Admins,Occupancy,,22400
+OPEX,G&A,GMs & Office Admins,Occupancy,,38
+OPEX,G&A,GMs & Office Admins,Occupancy,,456
+OPEX,G&A,GMs & Office Admins,Occupancy,,47
+OPEX,G&A,GMs & Office Admins,Outsourced Services,,0
+OPEX,G&A,GMs & Office Admins,Outsourced Services,,1509
+OPEX,G&A,GMs & Office Admins,Personnel,,484
+OPEX,G&A,GMs & Office Admins,Personnel,,2308
+OPEX,G&A,GMs & Office Admins,Personnel,,10932
+OPEX,G&A,GMs & Office Admins,Personnel,,1175
+OPEX,G&A,GMs & Office Admins,Personnel,,4531
+OPEX,G&A,GMs & Office Admins,Personnel,,461
+OPEX,G&A,GMs & Office Admins,Personnel,,5264
+OPEX,G&A,GMs & Office Admins,Personnel,,0
+OPEX,G&A,GMs & Office Admins,T&E/Other,,0
+OPEX,G&A,GMs & Office Admins,T&E/Other,,-1593
+OPEX,G&A,GMs & Office Admins,T&E/Other,,404
+OPEX,G&A,GMs & Office Admins,T&E/Other,,104641
+OPEX,G&A,Human Resources,Commissions,,-3205
+OPEX,G&A,Human Resources,External Contractors,,47000
+OPEX,G&A,Human Resources,Hosting,,96430
+OPEX,G&A,Human Resources,Occupancy,,10575
+OPEX,G&A,Human Resources,Occupancy,,52
+OPEX,G&A,Human Resources,Occupancy,,40514
+OPEX,G&A,Human Resources,Outsourced Services,,0
+OPEX,G&A,Human Resources,Outsourced Services,,-17414
+OPEX,G&A,Human Resources,Outsourced Services,,29149
+OPEX,G&A,Human Resources,Outsourced Services,,33610
+OPEX,G&A,Human Resources,Outsourced Services,,0
+OPEX,G&A,Human Resources,Outsourced Services,,180339
+OPEX,G&A,Human Resources,Outsourced Services,,0
+OPEX,G&A,Human Resources,Outsourced Services,,0
+OPEX,G&A,Human Resources,Outsourced Services,,0
+OPEX,G&A,Human Resources,Outsourced Services,,19627
+OPEX,G&A,Human Resources,Outsourced Services,,41492
+OPEX,G&A,Human Resources,Outsourced Services,,5184
+OPEX,G&A,Human Resources,Outsourced Services,,0
+OPEX,G&A,Human Resources,Personnel,,5156
+OPEX,G&A,Human Resources,Personnel,,16535
+OPEX,G&A,Human Resources,Personnel,,21860
+OPEX,G&A,Human Resources,Personnel,,5391
+OPEX,G&A,Human Resources,Personnel,,10025
+OPEX,G&A,Human Resources,Personnel,,0
+OPEX,G&A,Human Resources,T&E/Other,,35250
+OPEX,G&A,Human Resources,T&E/Other,,0
+OPEX,G&A,Human Resources,T&E/Other,,132
+OPEX,G&A,Human Resources,T&E/Other,,9602
+OPEX,G&A,Human Resources,T&E/Other,,1147
+OPEX,G&A,Human Resources,T&E/Other,,9245
+OPEX,G&A,Legal,Occupancy,,10669
+OPEX,G&A,Legal,Occupancy,,498
+OPEX,G&A,Legal,Occupancy,,20257
+OPEX,G&A,Legal,Occupancy,,0
+OPEX,G&A,Legal,Outsourced Services,,4000
+OPEX,G&A,Legal,Outsourced Services,,1034
+OPEX,G&A,Legal,Outsourced Services,,0
+OPEX,G&A,Legal,Outsourced Services,,4230
+OPEX,G&A,Legal,Outsourced Services,,208257
+OPEX,G&A,Legal,Outsourced Services,,21131
+OPEX,G&A,Legal,Outsourced Services,,62115
+OPEX,G&A,Legal,Outsourced Services,,312221
+OPEX,G&A,Legal,Outsourced Services,,0
+OPEX,G&A,Legal,Outsourced Services,,1438
+OPEX,G&A,Legal,Outsourced Services,,58750
+OPEX,G&A,Legal,Outsourced Services,,46220
+OPEX,G&A,Legal,Outsourced Services,,0
+OPEX,G&A,Legal,Personnel,,17164
+OPEX,G&A,Legal,Personnel,,10932
+OPEX,G&A,Legal,T&E/Other,,15129
+OPEX,G&A,Legal,T&E/Other,,0
+OPEX,G&A,Occupancy,External Contractors,,20271
+OPEX,G&A,Occupancy,Hosting,,1457
+OPEX,G&A,Occupancy,Hosting,,1260
+OPEX,G&A,Occupancy,Hosting,,130980
+OPEX,G&A,Occupancy,Hosting,,230
+OPEX,G&A,Occupancy,Marketing,,179
+OPEX,G&A,Occupancy,Occupancy,,1175
+OPEX,G&A,Occupancy,Occupancy,,6030
+OPEX,G&A,Occupancy,Occupancy,,0
+OPEX,G&A,Occupancy,Occupancy,,9546
+OPEX,G&A,Occupancy,Occupancy,,0
+OPEX,G&A,Occupancy,Occupancy,,3422
+OPEX,G&A,Occupancy,Occupancy,,635
+OPEX,G&A,Occupancy,Occupancy,,13278
+OPEX,G&A,Occupancy,Occupancy,,404
+OPEX,G&A,Occupancy,Occupancy,,0
+OPEX,G&A,Occupancy,Occupancy,,11802
+OPEX,G&A,Occupancy,Occupancy,,-946683
+OPEX,G&A,Occupancy,Occupancy,,0
+OPEX,G&A,Occupancy,Occupancy,,0
+OPEX,G&A,Occupancy,Occupancy,,1152
+OPEX,G&A,Occupancy,Occupancy,,2153
+OPEX,G&A,Occupancy,Occupancy,,0
+OPEX,G&A,Occupancy,Occupancy,,625814
+OPEX,G&A,Occupancy,Occupancy,,1227
+OPEX,G&A,Occupancy,Occupancy,,451
+OPEX,G&A,Occupancy,Occupancy,,2115
+OPEX,G&A,Occupancy,Occupancy,,0
+OPEX,G&A,Occupancy,Occupancy,,0
+OPEX,G&A,Occupancy,Occupancy,,25032
+OPEX,G&A,Occupancy,Outsourced Services,,141
+OPEX,G&A,Occupancy,Outsourced Services,,0
+OPEX,G&A,Occupancy,T&E/Other,,10331
+OPEX,G&A,Occupancy,T&E/Other,,23500
+OPEX,G&A,Occupancy,T&E/Other,,0
+OPEX,G&A,Occupancy,T&E/Other,,3257
+OPEX,G&A,Occupancy,T&E/Other,,37591
+OPEX,G&A,Occupancy,T&E/Other,,348
+OPEX,G&A,Occupancy,T&E/Other,,38094
+OPEX,G&A,Occupancy,T&E/Other,,0
+OPEX,G&A,Service Operations,Occupancy,,60776
+OPEX,G&A,Service Operations,Personnel,,8333
+OPEX,G&A,Service Operations,Personnel,,18095
+OPEX,G&A,Service Operations,Personnel,,36900
+OPEX,G&A,Service Operations,Personnel,,32792
+OPEX,G&A,Service Operations,Personnel,,7501
+OPEX,G&A,Service Operations,T&E/Other,,0
+OPEX,R&D,Product Development,Commissions,,324
+OPEX,R&D,Product Development,Hosting,,202
+OPEX,R&D,Product Development,Hosting,,24102
+OPEX,R&D,Product Development,Hosting,,968
+OPEX,R&D,Product Development,Hosting,,76375
+OPEX,R&D,Product Development,Hosting,,-27415
+OPEX,R&D,Product Development,Hosting,,14058
+OPEX,R&D,Product Development,Occupancy,,0
+OPEX,R&D,Product Development,Occupancy,,3525
+OPEX,R&D,Product Development,Occupancy,,26781
+OPEX,R&D,Product Development,Occupancy,,498
+OPEX,R&D,Product Development,Outsourced Services,,0
+OPEX,R&D,Product Development,Outsourced Services,,3370
+OPEX,R&D,Product Development,Personnel,,155
+OPEX,R&D,Product Development,Personnel,,1020
+OPEX,R&D,Product Development,Personnel,,4724
+OPEX,R&D,Product Development,Personnel,,12789
+OPEX,R&D,Product Development,Personnel,,20417
+OPEX,R&D,Product Development,T&E/Other,,0
+OPEX,R&D,Product Development,T&E/Other,,3487
+OPEX,R&D,Product Development,T&E/Other,,0
+OPEX,R&D,Product Development,T&E/Other,,23321
+OPEX,R&D,Product Development,T&E/Other,,62303
+OPEX,R&D,Product Development,T&E/Other,,0
+OPEX,R&D,Product Development,T&E/Other,,8150
+OPEX,R&D,Product Management,Hosting,,0
+OPEX,R&D,Product Management,Hosting,,456
+OPEX,R&D,Product Management,Occupancy,,20257
+OPEX,R&D,Product Management,Occupancy,,1687
+OPEX,R&D,Product Management,Personnel,,5358
+OPEX,R&D,Product Management,Personnel,,10932
+OPEX,R&D,Product Management,Personnel,,7802
+OPEX,R&D,Product Management,T&E/Other,,179
+OPEX,R&D,Quality Assurance,Hosting,,11999
+OPEX,R&D,Quality Assurance,Occupancy,,20257
+OPEX,R&D,Quality Assurance,Personnel,,13870
+OPEX,R&D,Quality Assurance,Personnel,,10932
+OPEX,R&D,Quality Assurance,T&E/Other,,16210
+OPEX,R&D,Quality Assurance,T&E/Other,,4832
+OPEX,R&D,Quality Assurance,T&E/Other,,0
+OPEX,S&M,Marketing,Commissions,,888
+OPEX,S&M,Marketing,Commissions,,-6646
+OPEX,S&M,Marketing,External Contractors,,35250
+OPEX,S&M,Marketing,Hosting,,254
+OPEX,S&M,Marketing,Hosting,,0
+OPEX,S&M,Marketing,Hosting,,81122
+OPEX,S&M,Marketing,Hosting,,17136
+OPEX,S&M,Marketing,Hosting,,23744
+OPEX,S&M,Marketing,Hosting,,0
+OPEX,S&M,Marketing,Hosting,,3544
+OPEX,S&M,Marketing,Hosting,,5875
+OPEX,S&M,Marketing,Marketing,,0
+OPEX,S&M,Marketing,Marketing,,0
+OPEX,S&M,Marketing,Marketing,,74025
+OPEX,S&M,Marketing,Marketing,,83947
+OPEX,S&M,Marketing,Marketing,,973
+OPEX,S&M,Marketing,Marketing,,47484
+OPEX,S&M,Marketing,Marketing,,6157
+OPEX,S&M,Marketing,Marketing,,23303
+OPEX,S&M,Marketing,Marketing,,19853
+OPEX,S&M,Marketing,Marketing,,0
+OPEX,S&M,Marketing,Occupancy,,780
+OPEX,S&M,Marketing,Occupancy,,63333
+OPEX,S&M,Marketing,Occupancy,,2468
+OPEX,S&M,Marketing,Outsourced Services,,152868
+OPEX,S&M,Marketing,Outsourced Services,,35720
+OPEX,S&M,Marketing,Outsourced Services,,21573
+OPEX,S&M,Marketing,Personnel,,10730
+OPEX,S&M,Marketing,Personnel,,4921
+OPEX,S&M,Marketing,Personnel,,0
+OPEX,S&M,Marketing,Personnel,,32792
+OPEX,S&M,Marketing,Personnel,,12135
+OPEX,S&M,Marketing,T&E/Other,,6918
+OPEX,S&M,Marketing,T&E/Other,,395
+OPEX,S&M,Marketing,T&E/Other,,1025
+OPEX,S&M,Marketing,T&E/Other,,1217
+OPEX,S&M,Sales,Commissions,,13560
+OPEX,S&M,Sales,Commissions,,-5020
+OPEX,S&M,Sales,Hosting,,9579
+OPEX,S&M,Sales,Hosting,,0
+OPEX,S&M,Sales,Hosting,,0
+OPEX,S&M,Sales,Hosting,,23810
+OPEX,S&M,Sales,Hosting,,0
+OPEX,S&M,Sales,Hosting,,27434
+OPEX,S&M,Sales,Hosting,,7515
+OPEX,S&M,Sales,Hosting,,0
+OPEX,S&M,Sales,Hosting,,348702
+OPEX,S&M,Sales,Hosting,,0
+OPEX,S&M,Sales,Hosting,,50939
+OPEX,S&M,Sales,Hosting,,27895
+OPEX,S&M,Sales,Marketing,,523989
+OPEX,S&M,Sales,Occupancy,,879
+OPEX,S&M,Sales,Occupancy,,28632
+OPEX,S&M,Sales,Outsourced Services,,1622
+OPEX,S&M,Sales,Outsourced Services,,940
+OPEX,S&M,Sales,Outsourced Services,,0
+OPEX,S&M,Sales,Outsourced Services,,940
+OPEX,S&M,Sales,Outsourced Services,,-50586
+OPEX,S&M,Sales,Personnel,,9851
+OPEX,S&M,Sales,Personnel,,11412
+OPEX,S&M,Sales,Personnel,,6204
+OPEX,S&M,Sales,Personnel,,15468
+OPEX,S&M,Sales,Personnel,,2153
+OPEX,S&M,Sales,Personnel,,7323
+OPEX,S&M,Sales,Personnel,,0
+OPEX,S&M,Sales,T&E/Other,,6970
+OPEX,S&M,Sales,T&E/Other,,1871
+OPEX,S&M,Sales,T&E/Other,,12643
+OPEX,S&M,Sales,T&E/Other,,96566
+OPEX,S&M,Sales,T&E/Other,,20337
+OPEX,S&M,Sales,T&E/Other,,4700
+OPEX,S&M,Sales,T&E/Other,,310
+OPEX,S&M,Solution Consultants,Commissions,,1067
+OPEX,S&M,Solution Consultants,Occupancy,,879
+OPEX,S&M,Solution Consultants,Personnel,,9851
+OPEX,S&M,Solution Consultants,Personnel,,0
+OPEX,S&M,Solution Consultants,T&E/Other,,0
+OPEX,S&M,Solution Consultants,T&E/Other,,6970
+OPEX,S&M,Solution Consultants,T&E/Other,,0
+OPEX,G&A,Benefits,Personnel,,181932
+OPEX,G&A,Benefits,Personnel,,-181932
+OPEX,G&A,Corporate,Outsourced Services,,6792
+OPEX,G&A,Corporate,Outsourced Services,,3365
+OPEX,G&A,Enterprise Systems,Hosting,,0
+OPEX,G&A,Enterprise Systems,Hosting,,2580
+OPEX,G&A,Enterprise Systems,Hosting,,1170
+OPEX,G&A,Enterprise Systems,Hosting,,-630
+OPEX,G&A,Enterprise Systems,Hosting,,696
+OPEX,G&A,Enterprise Systems,Occupancy,,0
+OPEX,G&A,Enterprise Systems,Occupancy,,21676
+OPEX,G&A,Enterprise Systems,Occupancy,,0
+OPEX,G&A,Enterprise Systems,Personnel,,4606
+OPEX,G&A,Finance & Accounting,Hosting,,1105
+OPEX,G&A,Finance & Accounting,Occupancy,,1861
+OPEX,G&A,Finance & Accounting,Occupancy,,912
+OPEX,G&A,Finance & Accounting,Occupancy,,16774
+OPEX,G&A,Finance & Accounting,Occupancy,,320
+OPEX,G&A,Finance & Accounting,Outsourced Services,,118
+OPEX,G&A,Finance & Accounting,Outsourced Services,,141
+OPEX,G&A,Finance & Accounting,Outsourced Services,,118
+OPEX,G&A,Finance & Accounting,Outsourced Services,,80676
+OPEX,G&A,Finance & Accounting,Outsourced Services,,32505
+OPEX,G&A,Finance & Accounting,Outsourced Services,,118
+OPEX,G&A,Finance & Accounting,Outsourced Services,,207
+OPEX,G&A,Finance & Accounting,Personnel,,273
+OPEX,G&A,Finance & Accounting,Personnel,,5541
+OPEX,G&A,Finance & Accounting,Personnel,,9212
+OPEX,G&A,Finance & Accounting,T&E/Other,,48020
+OPEX,G&A,Finance & Accounting,T&E/Other,,-48020
+OPEX,G&A,Finance & Accounting,T&E/Other,,2214
+OPEX,G&A,Finance & Accounting,T&E/Other,,3036
+OPEX,G&A,Finance & Accounting,T&E/Other,,13357
+OPEX,G&A,Finance & Accounting,T&E/Other,,1297
+OPEX,G&A,GMs & Office Admins,Commissions,,7393
+OPEX,G&A,GMs & Office Admins,Commissions,,0
+OPEX,G&A,GMs & Office Admins,Hosting,,1189
+OPEX,G&A,GMs & Office Admins,Occupancy,,0
+OPEX,G&A,GMs & Office Admins,Occupancy,,8484
+OPEX,G&A,GMs & Office Admins,Occupancy,,4935
+OPEX,G&A,GMs & Office Admins,Occupancy,,1716
+OPEX,G&A,GMs & Office Admins,Occupancy,,14344
+OPEX,G&A,GMs & Office Admins,Occupancy,,296
+OPEX,G&A,GMs & Office Admins,Occupancy,,4493
+OPEX,G&A,GMs & Office Admins,Occupancy,,2341
+OPEX,G&A,GMs & Office Admins,Occupancy,,0
+OPEX,G&A,GMs & Office Admins,Outsourced Services,,0
+OPEX,G&A,GMs & Office Admins,Outsourced Services,,80126
+OPEX,G&A,GMs & Office Admins,Outsourced Services,,0
+OPEX,G&A,GMs & Office Admins,Personnel,,1147
+OPEX,G&A,GMs & Office Admins,Personnel,,5424
+OPEX,G&A,GMs & Office Admins,Personnel,,0
+OPEX,G&A,GMs & Office Admins,Personnel,,6909
+OPEX,G&A,GMs & Office Admins,Personnel,,625
+OPEX,G&A,GMs & Office Admins,Personnel,,16549
+OPEX,G&A,GMs & Office Admins,Personnel,,0
+OPEX,G&A,GMs & Office Admins,Personnel,,0
+OPEX,G&A,GMs & Office Admins,T&E/Other,,0
+OPEX,G&A,GMs & Office Admins,T&E/Other,,0
+OPEX,G&A,GMs & Office Admins,T&E/Other,,9626
+OPEX,G&A,GMs & Office Admins,T&E/Other,,28764
+OPEX,G&A,GMs & Office Admins,T&E/Other,,-926
+OPEX,G&A,GMs & Office Admins,T&E/Other,,50450
+OPEX,G&A,GMs & Office Admins,T&E/Other,,1048
+OPEX,G&A,Human Resources,Occupancy,,8328
+OPEX,G&A,Human Resources,Outsourced Services,,5729
+OPEX,G&A,Human Resources,Outsourced Services,,254
+OPEX,G&A,Human Resources,Outsourced Services,,0
+OPEX,G&A,Human Resources,Personnel,,4606
+OPEX,G&A,Legal,Outsourced Services,,9734
+OPEX,G&A,Occupancy,Occupancy,,182055
+OPEX,G&A,Occupancy,Occupancy,,10599
+OPEX,G&A,Occupancy,Occupancy,,122
+OPEX,G&A,Occupancy,Occupancy,,42
+OPEX,G&A,Occupancy,Occupancy,,926
+OPEX,G&A,Occupancy,Occupancy,,25037
+OPEX,G&A,Occupancy,Occupancy,,2270
+OPEX,G&A,Occupancy,Occupancy,,-328920
+OPEX,G&A,Occupancy,Occupancy,,2270
+OPEX,G&A,Occupancy,Occupancy,,2994
+OPEX,G&A,Occupancy,Occupancy,,1476
+OPEX,G&A,Occupancy,Occupancy,,559
+OPEX,G&A,Occupancy,Occupancy,,20967
+OPEX,G&A,Occupancy,Occupancy,,0
+OPEX,G&A,Occupancy,Occupancy,,1377
+OPEX,G&A,Occupancy,Occupancy,,0
+OPEX,G&A,Occupancy,T&E/Other,,0
+OPEX,G&A,Occupancy,T&E/Other,,141
+OPEX,G&A,Occupancy,T&E/Other,,1481
+OPEX,G&A,Occupancy,T&E/Other,,12168
+OPEX,G&A,Occupancy,T&E/Other,,61330
+OPEX,G&A,Occupancy,T&E/Other,,1053
+OPEX,G&A,Occupancy,T&E/Other,,24
+OPEX,G&A,Occupancy,T&E/Other,,2059
+OPEX,G&A,Service Operations,T&E/Other,,2604
+OPEX,G&A,Service Operations,Personnel,,1142
+OPEX,R&D,Product Development,Commissions,,6152
+OPEX,R&D,Product Development,Commissions,,0
+OPEX,R&D,Product Development,Dev Factory,,584201
+OPEX,R&D,Product Development,External Contractors,,50727
+OPEX,R&D,Product Development,External Contractors,,57561
+OPEX,R&D,Product Development,External Contractors,,288030
+OPEX,R&D,Product Development,External Contractors,,98644
+OPEX,R&D,Product Development,Hosting,,0
+OPEX,R&D,Product Development,Hosting,,1297
+OPEX,R&D,Product Development,Hosting,,0
+OPEX,R&D,Product Development,Hosting,,5273
+OPEX,R&D,Product Development,Hosting,,-510702
+OPEX,R&D,Product Development,Occupancy,,58289
+OPEX,R&D,Product Development,Occupancy,,132
+OPEX,R&D,Product Development,Occupancy,,1687
+OPEX,R&D,Product Development,Occupancy,,3398
+OPEX,R&D,Product Development,Outsourced Services,,329
+OPEX,R&D,Product Development,Outsourced Services,,663
+OPEX,R&D,Product Development,Outsourced Services,,3506
+OPEX,R&D,Product Development,Personnel,,9048
+OPEX,R&D,Product Development,Personnel,,9767
+OPEX,R&D,Product Development,Personnel,,18894
+OPEX,R&D,Product Development,Personnel,,9391
+OPEX,R&D,Product Development,Personnel,,10345
+OPEX,R&D,Product Development,Personnel,,9771
+OPEX,R&D,Product Development,Personnel,,8977
+OPEX,R&D,Product Development,Personnel,,6115
+OPEX,R&D,Product Development,Personnel,,13776
+OPEX,R&D,Product Development,Personnel,,8690
+OPEX,R&D,Product Development,Personnel,,32242
+OPEX,R&D,Product Development,Personnel,,8610
+OPEX,R&D,Product Development,Personnel,,6914
+OPEX,R&D,Product Development,Personnel,,11355
+OPEX,R&D,Product Development,Personnel,,6721
+OPEX,R&D,Product Development,Personnel,,0
+OPEX,R&D,Product Development,T&E/Other,,0
+OPEX,R&D,Product Development,T&E/Other,,752
+OPEX,R&D,Product Development,T&E/Other,,179
+OPEX,R&D,Product Development,T&E/Other,,470
+OPEX,R&D,Product Development,T&E/Other,,0
+OPEX,R&D,Product Management,Commissions,,8155
+OPEX,R&D,Product Management,Commissions,,0
+OPEX,R&D,Product Management,Occupancy,,428
+OPEX,R&D,Product Management,Occupancy,,16657
+OPEX,R&D,Product Management,Outsourced Services,,254
+OPEX,R&D,Product Management,Personnel,,10871
+OPEX,R&D,Product Management,Personnel,,10044
+OPEX,R&D,Product Management,Personnel,,8084
+OPEX,R&D,Product Management,Personnel,,9762
+OPEX,R&D,Product Management,Personnel,,9212
+OPEX,R&D,Product Management,Personnel,,0
+OPEX,R&D,Product Management,T&E/Other,,0
+OPEX,R&D,Product Management,T&E/Other,,0
+OPEX,R&D,Quality Assurance,Commissions,,1401
+OPEX,R&D,Quality Assurance,Commissions,,0
+OPEX,R&D,Quality Assurance,External Contractors,,310665
+OPEX,R&D,Quality Assurance,Occupancy,,24981
+OPEX,R&D,Quality Assurance,Personnel,,9330
+OPEX,R&D,Quality Assurance,Personnel,,7153
+OPEX,R&D,Quality Assurance,Personnel,,7003
+OPEX,R&D,Quality Assurance,Personnel,,7055
+OPEX,R&D,Quality Assurance,Personnel,,6970
+OPEX,R&D,Quality Assurance,Personnel,,13818
+OPEX,R&D,Quality Assurance,Personnel,,5664
+OPEX,R&D,Quality Assurance,Personnel,,0
+OPEX,R&D,Quality Assurance,T&E/Other,,0
+OPEX,S&M,Marketing,Commissions,,2139
+OPEX,S&M,Marketing,External Contractors,,60973
+OPEX,S&M,Marketing,External Contractors,,-6209
+OPEX,S&M,Marketing,Marketing,,6740
+OPEX,S&M,Marketing,Marketing,,0
+OPEX,S&M,Marketing,Marketing,,559
+OPEX,S&M,Marketing,Marketing,,59295
+OPEX,S&M,Marketing,Marketing,,37013
+OPEX,S&M,Marketing,Marketing,,16469
+OPEX,S&M,Marketing,Marketing,,1133
+OPEX,S&M,Marketing,Marketing,,46253
+OPEX,S&M,Marketing,Occupancy,,4164
+OPEX,S&M,Marketing,Outsourced Services,,41454
+OPEX,S&M,Marketing,Outsourced Services,,254
+OPEX,S&M,Marketing,Personnel,,-23223
+OPEX,S&M,Marketing,Personnel,,13235
+OPEX,S&M,Marketing,Personnel,,10293
+OPEX,S&M,Marketing,Personnel,,0
+OPEX,S&M,Marketing,T&E/Other,,122
+OPEX,S&M,Marketing,T&E/Other,,18382
+OPEX,S&M,Marketing,T&E/Other,,334
+OPEX,S&M,Sales,Bad Debt Reserve,,-82894
+OPEX,S&M,Sales,Bonus,,0
+OPEX,S&M,Sales,Bonus,,49806
+OPEX,S&M,Sales,Commissions,,498209
+OPEX,S&M,Sales,Commissions,,0
+OPEX,S&M,Sales,Commissions,,0
+OPEX,S&M,Sales,Hosting,,8046
+OPEX,S&M,Sales,Hosting,,2566
+OPEX,S&M,Sales,Occupancy,,16004
+OPEX,S&M,Sales,Occupancy,,4089
+OPEX,S&M,Sales,Occupancy,,33309
+OPEX,S&M,Sales,Occupancy,,0
+OPEX,S&M,Sales,Personnel,,0
+OPEX,S&M,Sales,Personnel,,-77010
+OPEX,S&M,Sales,Personnel,,0
+OPEX,S&M,Sales,Personnel,,7487
+OPEX,S&M,Sales,Personnel,,6557
+OPEX,S&M,Sales,Personnel,,18424
+OPEX,S&M,Sales,Personnel,,5612
+OPEX,S&M,Sales,Personnel,,25239
+OPEX,S&M,Sales,Personnel,,0
+OPEX,S&M,Sales,T&E/Other,,0
+OPEX,S&M,Sales,T&E/Other,,-179
+OPEX,S&M,Sales,T&E/Other,,211552
+OPEX,S&M,Sales,T&E/Other,,0
+OPEX,S&M,Sales,T&E/Other,,7910
+OPEX,S&M,Solution Consultants,Commissions,,3243
+OPEX,S&M,Solution Consultants,Commissions,,0
+OPEX,S&M,Solution Consultants,Occupancy,,12493
+OPEX,S&M,Solution Consultants,Personnel,,127
+OPEX,S&M,Solution Consultants,Personnel,,6566
+OPEX,S&M,Solution Consultants,Personnel,,-9057
+OPEX,S&M,Solution Consultants,Personnel,,9560
+OPEX,S&M,Solution Consultants,Personnel,,0
+OPEX,S&M,Solution Consultants,T&E/Other,,4498
+OPEX,S&M,Solution Consultants,T&E/Other,,55836
+OPEX,S&M,Solution Consultants,T&E/Other,,353
+OPEX,S&M,Solution Consultants,T&E/Other,,0
+OPEX,G&A,Business Operations,External Contractors,,-6759
+OPEX,G&A,Corporate,Outsourced Services,,13931
+OPEX,G&A,Finance & Accounting,Occupancy,,141
+OPEX,G&A,Finance & Accounting,Occupancy,,470
+OPEX,G&A,Finance & Accounting,Outsourced Services,,-677
+OPEX,G&A,Finance & Accounting,Outsourced Services,,1048
+OPEX,G&A,Finance & Accounting,Outsourced Services,,141
+OPEX,G&A,Finance & Accounting,Outsourced Services,,362
+OPEX,G&A,Finance & Accounting,Outsourced Services,,954
+OPEX,G&A,Finance & Accounting,Outsourced Services,,-357
+OPEX,G&A,Finance & Accounting,Outsourced Services,,-179
+OPEX,G&A,Finance & Accounting,Outsourced Services,,71
+OPEX,G&A,Finance & Accounting,Outsourced Services,,71
+OPEX,G&A,Finance & Accounting,Personnel,,-99781
+OPEX,G&A,GMs & Office Admins,External Contractors,,0
+OPEX,G&A,GMs & Office Admins,Hosting,,3962
+OPEX,G&A,GMs & Office Admins,Occupancy,,282
+OPEX,G&A,GMs & Office Admins,Occupancy,,1156
+OPEX,G&A,GMs & Office Admins,Occupancy,,36392
+OPEX,G&A,GMs & Office Admins,Personnel,,7685
+OPEX,G&A,GMs & Office Admins,Personnel,,42403
+OPEX,G&A,GMs & Office Admins,Personnel,,10049
+OPEX,G&A,GMs & Office Admins,Personnel,,0
+OPEX,G&A,GMs & Office Admins,Personnel,,-276515
+OPEX,G&A,GMs & Office Admins,T&E/Other,,2764
+OPEX,G&A,GMs & Office Admins,T&E/Other,,418
+OPEX,G&A,GMs & Office Admins,T&E/Other,,1288
+OPEX,G&A,Human Resources,Occupancy,,282
+OPEX,G&A,Human Resources,Personnel,,1692
+OPEX,G&A,Legal,Occupancy,,8733
+OPEX,G&A,Occupancy,Hosting,,1109
+OPEX,G&A,Occupancy,Hosting,,4526
+OPEX,G&A,Occupancy,Occupancy,,0
+OPEX,G&A,Occupancy,Occupancy,,254782
+OPEX,G&A,Occupancy,Occupancy,,202
+OPEX,G&A,Occupancy,Occupancy,,348
+OPEX,G&A,Occupancy,Occupancy,,-285041
+OPEX,G&A,Occupancy,Occupancy,,268
+OPEX,G&A,Occupancy,Occupancy,,155
+OPEX,G&A,Occupancy,T&E/Other,,16187
+OPEX,G&A,Occupancy,T&E/Other,,4803
+OPEX,G&A,Occupancy,T&E/Other,,4456
+OPEX,G&A,Service Operations,Personnel,,1523
+OPEX,R&D,Product Development,External Contractors,,0
+OPEX,R&D,Product Development,External Contractors,,14100
+OPEX,R&D,Product Development,External Contractors,,23265
+OPEX,R&D,Product Development,External Contractors,,22560
+OPEX,R&D,Product Development,Hosting,,0
+OPEX,R&D,Product Development,Occupancy,,0
+OPEX,R&D,Product Development,Occupancy,,124823
+OPEX,R&D,Product Development,Outsourced Services,,4803
+OPEX,R&D,Product Development,Personnel,,9080
+OPEX,R&D,Product Development,Personnel,,10138
+OPEX,R&D,Product Development,Personnel,,12723
+OPEX,R&D,Product Development,Personnel,,10204
+OPEX,R&D,Product Development,Personnel,,884
+OPEX,R&D,Product Development,Personnel,,0
+OPEX,R&D,Product Development,Personnel,,-808254
+OPEX,R&D,Product Development,Personnel,,21493
+OPEX,R&D,Product Development,Personnel,,11590
+OPEX,R&D,Product Development,Personnel,,34606
+OPEX,R&D,Product Development,T&E/Other,,776
+OPEX,R&D,Product Development,T&E/Other,,0
+OPEX,R&D,Product Development,T&E/Other,,6651
+OPEX,S&M,Marketing,Marketing,,11698
+OPEX,S&M,Marketing,Marketing,,179
+OPEX,S&M,Marketing,Marketing,,8352
+OPEX,S&M,Marketing,Marketing,,4935
+OPEX,S&M,Marketing,Marketing,,0
+OPEX,S&M,Marketing,Marketing,,0
+OPEX,S&M,Marketing,Outsourced Services,,24675
+OPEX,S&M,Sales,Bad Debt Reserve,,17860
+OPEX,S&M,Sales,Commissions,,-26987
+OPEX,S&M,Sales,Commissions,,0
+OPEX,S&M,Sales,Hosting,,0
+OPEX,S&M,Sales,Hosting,,4949
+OPEX,S&M,Sales,Marketing,,0
+OPEX,S&M,Sales,Marketing,,4700
+OPEX,S&M,Sales,Marketing,,6853
+OPEX,S&M,Sales,Occupancy,,2115
+OPEX,S&M,Sales,Occupancy,,36087
+OPEX,S&M,Sales,Outsourced Services,,776
+OPEX,S&M,Sales,Personnel,,6890
+OPEX,S&M,Sales,Personnel,,0
+OPEX,S&M,Sales,Personnel,,21860
+OPEX,S&M,Sales,Personnel,,7384
+OPEX,S&M,Sales,T&E/Other,,-4047
+OPEX,S&M,Sales,T&E/Other,,5499
+OPEX,S&M,Sales,T&E/Other,,112518
+OPEX,S&M,Sales,T&E/Other,,451

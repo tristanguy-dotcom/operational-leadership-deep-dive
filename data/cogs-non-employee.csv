@@ -1,0 +1,850 @@
+function_l1,function_l2,department,sub_department,vendor,amount_2018
+COGS,Cost of Product,Cloud Operations,External Contractors,,192210
+COGS,Cost of Product,Cloud Operations,External Contractors,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,204125
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,51222
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,306968
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,117932
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,9460
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,5913
+COGS,Cost of Product,Cloud Operations,Hosting,,16125
+COGS,Cost of Product,Cloud Operations,Hosting,,21229
+COGS,Cost of Product,Cloud Operations,Hosting,,11933
+COGS,Cost of Product,Cloud Operations,Occupancy,,24424
+COGS,Cost of Product,Cloud Operations,Occupancy,,0
+COGS,Cost of Product,Cloud Operations,Outsourced Services,,3698
+COGS,Cost of Product,Cloud Operations,Personnel,,542
+COGS,Cost of Product,Cloud Operations,Personnel,,774
+COGS,Cost of Product,Cloud Operations,Personnel,,688
+COGS,Cost of Product,Cloud Operations,Personnel,,8222
+COGS,Cost of Product,Cloud Operations,Personnel,,512
+COGS,Cost of Product,Cloud Operations,Personnel,,10002
+COGS,Cost of Product,Cloud Operations,Personnel,,1720
+COGS,Cost of Product,Cloud Operations,Personnel,,572
+COGS,Cost of Product,Cloud Operations,Personnel,,1045
+COGS,Cost of Product,Cloud Operations,T&E/Other,,0
+COGS,Cost of Product,Customer Success,Bonus,,0
+COGS,Cost of Product,Customer Success,Bonus,,7418
+COGS,Cost of Product,Customer Success,Bonus,,-16125
+COGS,Cost of Product,Customer Success,Commissions,,-27288
+COGS,Cost of Product,Customer Success,External Contractors,,113890
+COGS,Cost of Product,Customer Success,External Contractors,,50310
+COGS,Cost of Product,Customer Success,Hosting,,4678
+COGS,Cost of Product,Customer Success,Occupancy,,48852
+COGS,Cost of Product,Customer Success,Occupancy,,1527
+COGS,Cost of Product,Customer Success,Personnel,,19999
+COGS,Cost of Product,Customer Success,Personnel,,16564
+COGS,Cost of Product,Customer Success,Personnel,,8738
+COGS,Cost of Product,Customer Success,Personnel,,12762
+COGS,Cost of Product,Customer Success,T&E/Other,,1789
+COGS,Cost of Product,Customer Success,T&E/Other,,12668
+COGS,Cost of Product,Customer Success,T&E/Other,,636
+COGS,Cost of Product,Customer Success,T&E/Other,,4128
+COGS,Cost of Product,Customer Success,T&E/Other,,0
+COGS,Cost of Product,Enhanced Support,Bonus,,0
+COGS,Cost of Product,Enhanced Support,Outsourced Services,,0
+COGS,Cost of Product,Technical Support,Bonus,,14332
+COGS,Cost of Product,Technical Support,Bonus,,7740
+COGS,Cost of Product,Technical Support,External Contractors,,33540
+COGS,Cost of Product,Technical Support,Hosting,,0
+COGS,Cost of Product,Technical Support,Occupancy,,120972
+COGS,Cost of Product,Technical Support,Personnel,,5392
+COGS,Cost of Product,Technical Support,Personnel,,331
+COGS,Cost of Product,Technical Support,Personnel,,10819
+COGS,Cost of Product,Technical Support,Personnel,,10238
+COGS,Cost of Product,Technical Support,Personnel,,5960
+COGS,Cost of Product,Technical Support,Personnel,,52976
+COGS,Cost of Product,Technical Support,Personnel,,8131
+COGS,Cost of Product,Technical Support,Personnel,,0
+COGS,Cost of Product,Technical Support,T&E/Other,,968
+COGS,Cost of Product,Technical Support,T&E/Other,,1445
+COGS,Cost of Product,Technical Support,T&E/Other,,6115
+COGS,Cost of Product,Technical Support,T&E/Other,,0
+COGS,Cost of PSO,Professional Services,Bonus,,0
+COGS,Cost of PSO,Professional Services,Bonus,,17596
+COGS,Cost of PSO,Professional Services,Bonus,,48375
+COGS,Cost of PSO,Professional Services,External Contractors,,30156
+COGS,Cost of PSO,Professional Services,External Contractors,,-129
+COGS,Cost of PSO,Professional Services,External Contractors,,117390
+COGS,Cost of PSO,Professional Services,Occupancy,,1135
+COGS,Cost of PSO,Professional Services,Occupancy,,464
+COGS,Cost of PSO,Professional Services,Occupancy,,73276
+COGS,Cost of PSO,Professional Services,Outsourced Services,,-40850
+COGS,Cost of PSO,Professional Services,Outsourced Services,,40850
+COGS,Cost of PSO,Professional Services,Outsourced Services,,324650
+COGS,Cost of PSO,Professional Services,Personnel,,8798
+COGS,Cost of PSO,Professional Services,Personnel,,14487
+COGS,Cost of PSO,Professional Services,Personnel,,8437
+COGS,Cost of PSO,Professional Services,Personnel,,25852
+COGS,Cost of PSO,Professional Services,Personnel,,7731
+COGS,Cost of PSO,Professional Services,T&E/Other,,7495
+COGS,Cost of PSO,Professional Services,T&E/Other,,13098
+COGS,Cost of PSO,Professional Services,T&E/Other,,11386
+COGS,Cost of PSO,Professional Services,T&E/Other,,14293
+COGS,Cost of PSO,Professional Services,T&E/Other,,-24506
+COGS,Cost of PSO,Professional Services,T&E/Other,,24506
+COGS,Cost of PSO,Professional Services,T&E/Other,,6016
+COGS,Cost of Product,Cloud Operations,Commissions,,774
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,417
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,3638
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,237
+COGS,Cost of Product,Cloud Operations,Hosting,,15639
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,6717
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,76273
+COGS,Cost of Product,Cloud Operations,Hosting,,30973
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,3204
+COGS,Cost of Product,Cloud Operations,Occupancy,,77
+COGS,Cost of Product,Cloud Operations,Occupancy,,0
+COGS,Cost of Product,Cloud Operations,Occupancy,,8351
+COGS,Cost of Product,Cloud Operations,Occupancy,,2322
+COGS,Cost of Product,Cloud Operations,Occupancy,,0
+COGS,Cost of Product,Cloud Operations,Outsourced Services,,43538
+COGS,Cost of Product,Cloud Operations,Outsourced Services,,3698
+COGS,Cost of Product,Cloud Operations,Personnel,,387
+COGS,Cost of Product,Cloud Operations,Personnel,,555
+COGS,Cost of Product,Cloud Operations,Personnel,,1819
+COGS,Cost of Product,Cloud Operations,Personnel,,490
+COGS,Cost of Product,Cloud Operations,Personnel,,366
+COGS,Cost of Product,Cloud Operations,Personnel,,409
+COGS,Cost of Product,Cloud Operations,T&E/Other,,0
+COGS,Cost of Product,Cloud Operations,T&E/Other,,396
+COGS,Cost of Product,Cloud Operations,T&E/Other,,7134
+COGS,Cost of Product,Cloud Operations,T&E/Other,,206
+COGS,Cost of Product,Cloud Operations,T&E/Other,,0
+COGS,Cost of Product,Cloud Operations,T&E/Other,,6480
+COGS,Cost of Product,Customer Success,Bonus,,46453
+COGS,Cost of Product,Customer Success,Occupancy,,13941
+COGS,Cost of Product,Customer Success,Occupancy,,4175
+COGS,Cost of Product,Customer Success,Personnel,,0
+COGS,Cost of Product,Customer Success,Personnel,,7654
+COGS,Cost of Product,Customer Success,Personnel,,0
+COGS,Cost of Product,Customer Success,Personnel,,3672
+COGS,Cost of Product,Customer Success,Personnel,,19999
+COGS,Cost of Product,Customer Success,T&E/Other,,873
+COGS,Cost of Product,Customer Success,T&E/Other,,7994
+COGS,Cost of Product,Customer Success,T&E/Other,,10045
+COGS,Cost of Product,Customer Success,T&E/Other,,0
+COGS,Cost of Product,Customer Success,T&E/Other,,2034
+COGS,Cost of Product,Customer Success,T&E/Other,,1230
+COGS,Cost of Product,Customer Success,T&E/Other,,2167
+COGS,Cost of Product,Customer Success,T&E/Other,,1974
+COGS,Cost of Product,Customer Success,T&E/Other,,254
+COGS,Cost of Product,Enhanced Support,Occupancy,,62737
+COGS,Cost of Product,Enhanced Support,Personnel,,12947
+COGS,Cost of Product,Enhanced Support,Personnel,,11103
+COGS,Cost of Product,Enhanced Support,Personnel,,7491
+COGS,Cost of Product,Enhanced Support,Personnel,,5040
+COGS,Cost of Product,Enhanced Support,Personnel,,6579
+COGS,Cost of Product,Enhanced Support,Personnel,,9512
+COGS,Cost of Product,Enhanced Support,Personnel,,10565
+COGS,Cost of Product,Enhanced Support,Personnel,,90003
+COGS,Cost of Product,Enhanced Support,Personnel,,7297
+COGS,Cost of Product,Enhanced Support,Personnel,,10883
+COGS,Cost of Product,Enhanced Support,Personnel,,14113
+COGS,Cost of Product,Enhanced Support,Personnel,,10367
+COGS,Cost of Product,Technical Support,External Contractors,,33540
+COGS,Cost of Product,Technical Support,Personnel,,0
+COGS,Cost of Product,Technical Support,T&E/Other,,856
+COGS,Cost of Product,Technical Support,T&E/Other,,0
+COGS,Cost of PSO,Education and Training,Occupancy,,6970
+COGS,Cost of PSO,Education and Training,Personnel,,6708
+COGS,Cost of PSO,Education and Training,Personnel,,10002
+COGS,Cost of PSO,Professional Services,Occupancy,,6970
+COGS,Cost of PSO,Professional Services,Personnel,,16280
+COGS,Cost of PSO,Professional Services,Personnel,,10002
+COGS,Cost of Product,Cloud Operations,Commissions,,361
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,182772
+COGS,Cost of Product,Cloud Operations,Hosting,,5225
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,121101
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,12754
+COGS,Cost of Product,Cloud Operations,Occupancy,,0
+COGS,Cost of Product,Cloud Operations,Occupancy,,13248
+COGS,Cost of Product,Cloud Operations,Outsourced Services,,3496
+COGS,Cost of Product,Cloud Operations,Personnel,,5556
+COGS,Cost of Product,Cloud Operations,Personnel,,8041
+COGS,Cost of Product,Cloud Operations,Personnel,,11266
+COGS,Cost of Product,Cloud Operations,Personnel,,1802
+COGS,Cost of Product,Cloud Operations,Personnel,,9666
+COGS,Cost of Product,Cloud Operations,Personnel,,7280
+COGS,Cost of Product,Cloud Operations,Personnel,,5354
+COGS,Cost of Product,Cloud Operations,Personnel,,7297
+COGS,Cost of Product,Cloud Operations,Personnel,,0
+COGS,Cost of Product,Cloud Operations,T&E/Other,,0
+COGS,Cost of Product,Cloud Operations,T&E/Other,,460
+COGS,Cost of Product,Cloud Operations,T&E/Other,,206
+COGS,Cost of Product,Cloud Operations,T&E/Other,,0
+COGS,Cost of Product,Customer Success,Commissions,,628
+COGS,Cost of Product,Customer Success,Commissions,,0
+COGS,Cost of Product,Customer Success,Marketing,,1565
+COGS,Cost of Product,Customer Success,Occupancy,,13248
+COGS,Cost of Product,Customer Success,Personnel,,5194
+COGS,Cost of Product,Customer Success,Personnel,,331
+COGS,Cost of Product,Customer Success,Personnel,,7529
+COGS,Cost of Product,Customer Success,Personnel,,5354
+COGS,Cost of Product,Customer Success,Personnel,,0
+COGS,Cost of Product,Customer Success,T&E/Other,,1441
+COGS,Cost of Product,Customer Success,T&E/Other,,636
+COGS,Cost of Product,Customer Success,T&E/Other,,3173
+COGS,Cost of Product,Technical Support,Bonus,,7147
+COGS,Cost of Product,Technical Support,Commissions,,2356
+COGS,Cost of Product,Technical Support,Commissions,,0
+COGS,Cost of Product,Technical Support,Occupancy,,19875
+COGS,Cost of Product,Technical Support,Personnel,,7439
+COGS,Cost of Product,Technical Support,Personnel,,4158
+COGS,Cost of Product,Technical Support,Personnel,,8032
+COGS,Cost of Product,Technical Support,Personnel,,3741
+COGS,Cost of Product,Technical Support,Personnel,,0
+COGS,Cost of Product,Technical Support,T&E/Other,,12612
+COGS,Cost of PSO,Education and Training,T&E/Other,,0
+COGS,Cost of PSO,Education and Training,T&E/Other,,2430
+COGS,Cost of PSO,Professional Services,Bonus,,25413
+COGS,Cost of PSO,Professional Services,Commissions,,3926
+COGS,Cost of PSO,Professional Services,Commissions,,0
+COGS,Cost of PSO,Professional Services,Occupancy,,658
+COGS,Cost of PSO,Professional Services,Occupancy,,26497
+COGS,Cost of PSO,Professional Services,Personnel,,7439
+COGS,Cost of PSO,Professional Services,Personnel,,5891
+COGS,Cost of PSO,Professional Services,Personnel,,10711
+COGS,Cost of PSO,Professional Services,Personnel,,6394
+COGS,Cost of PSO,Professional Services,Personnel,,7061
+COGS,Cost of PSO,Professional Services,Personnel,,0
+COGS,Cost of PSO,Professional Services,T&E/Other,,17673
+COGS,Cost of PSO,Professional Services,T&E/Other,,7138
+COGS,Cost of PSO,Professional Services,T&E/Other,,34907
+COGS,Cost of PSO,Professional Services,T&E/Other,,50142
+COGS,Cost of PSO,Professional Services,T&E/Other,,533
+COGS,Cost of Product,Cloud Operations,Hosting,,188198
+COGS,Cost of Product,Cloud Operations,Hosting,,2210
+COGS,Cost of Product,Cloud Operations,Outsourced Services,,2464
+COGS,Cost of Product,Cloud Operations,Personnel,,-13450
+COGS,Cost of Product,Cloud Operations,Personnel,,7203
+COGS,Cost of Product,Cloud Operations,Personnel,,6248
+COGS,Cost of Product,Cloud Operations,T&E/Other,,42557
+COGS,Cost of Product,Customer Success,Bonus,,10750
+COGS,Cost of Product,Customer Success,Bonus,,39728
+COGS,Cost of Product,Customer Success,External Contractors,,14964
+COGS,Cost of Product,Customer Success,Occupancy,,39040
+COGS,Cost of Product,Customer Success,Personnel,,14912
+COGS,Cost of Product,Customer Success,Personnel,,6635
+COGS,Cost of Product,Customer Success,Personnel,,6992
+COGS,Cost of Product,Customer Success,Personnel,,20206
+COGS,Cost of Product,Customer Success,Personnel,,2864
+COGS,Cost of Product,Customer Success,T&E/Other,,2374
+COGS,Cost of Product,Customer Success,T&E/Other,,77305
+COGS,Cost of Product,Customer Success,T&E/Other,,6214
+COGS,Cost of Product,Technical Support,Bonus,,7370
+COGS,Cost of Product,Technical Support,External Contractors,,44720
+COGS,Cost of Product,Technical Support,Hosting,,3216
+COGS,Cost of Product,Technical Support,Occupancy,,155
+COGS,Cost of Product,Technical Support,Occupancy,,249
+COGS,Cost of Product,Technical Support,Occupancy,,33183
+COGS,Cost of Product,Technical Support,Personnel,,6282
+COGS,Cost of Product,Technical Support,Personnel,,8002
+COGS,Cost of Product,Technical Support,Personnel,,3358
+COGS,Cost of Product,Technical Support,Personnel,,396
+COGS,Cost of Product,Technical Support,Personnel,,7787
+COGS,Cost of Product,Technical Support,Personnel,,4356
+COGS,Cost of Product,Technical Support,T&E/Other,,323
+COGS,Cost of PSO,Education and Training,Bonus,,5736
+COGS,Cost of PSO,Education and Training,Occupancy,,21792
+COGS,Cost of PSO,Education and Training,Personnel,,4455
+COGS,Cost of PSO,Education and Training,Personnel,,7727
+COGS,Cost of PSO,Education and Training,Personnel,,8923
+COGS,Cost of PSO,Professional Services,Bonus,,9830
+COGS,Cost of PSO,Professional Services,Bonus,,7370
+COGS,Cost of PSO,Professional Services,Bonus,,9830
+COGS,Cost of PSO,Professional Services,Bonus,,29485
+COGS,Cost of PSO,Professional Services,Bonus,,7370
+COGS,Cost of PSO,Professional Services,Bonus,,7370
+COGS,Cost of PSO,Professional Services,Bonus,,9830
+COGS,Cost of PSO,Professional Services,Bonus,,8600
+COGS,Cost of PSO,Professional Services,Bonus,,14745
+COGS,Cost of PSO,Professional Services,Commissions,,1238
+COGS,Cost of PSO,Professional Services,Commissions,,-9503
+COGS,Cost of PSO,Professional Services,External Contractors,,23444
+COGS,Cost of PSO,Professional Services,Occupancy,,119871
+COGS,Cost of PSO,Professional Services,Personnel,,3204
+COGS,Cost of PSO,Professional Services,Personnel,,9138
+COGS,Cost of PSO,Professional Services,Personnel,,8854
+COGS,Cost of PSO,Professional Services,Personnel,,1965
+COGS,Cost of PSO,Professional Services,Personnel,,11894
+COGS,Cost of PSO,Professional Services,Personnel,,24622
+COGS,Cost of PSO,Professional Services,Personnel,,11434
+COGS,Cost of PSO,Professional Services,Personnel,,9103
+COGS,Cost of PSO,Professional Services,Personnel,,9937
+COGS,Cost of PSO,Professional Services,Personnel,,9030
+COGS,Cost of PSO,Professional Services,Personnel,,7946
+COGS,Cost of PSO,Professional Services,Personnel,,1974
+COGS,Cost of PSO,Professional Services,Personnel,,99
+COGS,Cost of PSO,Professional Services,Personnel,,13777
+COGS,Cost of PSO,Professional Services,Personnel,,13356
+COGS,Cost of PSO,Professional Services,T&E/Other,,6472
+COGS,Cost of PSO,Professional Services,T&E/Other,,34146
+COGS,Cost of PSO,Professional Services,T&E/Other,,21087
+COGS,Cost of PSO,Professional Services,T&E/Other,,3118
+COGS,Cost of PSO,Professional Services,T&E/Other,,4644
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,108971
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,42923
+COGS,Cost of Product,Cloud Operations,Hosting,,115481
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,9585
+COGS,Cost of Product,Cloud Operations,Hosting,,6338
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,6106
+COGS,Cost of Product,Cloud Operations,Marketing,,344
+COGS,Cost of Product,Cloud Operations,Occupancy,,0
+COGS,Cost of Product,Cloud Operations,Occupancy,,0
+COGS,Cost of Product,Cloud Operations,Outsourced Services,,3698
+COGS,Cost of Product,Cloud Operations,Personnel,,563
+COGS,Cost of Product,Cloud Operations,Personnel,,804
+COGS,Cost of Product,Cloud Operations,Personnel,,4274
+COGS,Cost of Product,Cloud Operations,Personnel,,714
+COGS,Cost of Product,Cloud Operations,Personnel,,533
+COGS,Cost of Product,Cloud Operations,Personnel,,593
+COGS,Cost of Product,Cloud Operations,T&E/Other,,1290
+COGS,Cost of Product,Cloud Operations,T&E/Other,,2946
+COGS,Cost of Product,Cloud Operations,T&E/Other,,0
+COGS,Cost of Product,Customer Success,Bonus,,1974
+COGS,Cost of Product,Customer Success,External Contractors,,70331
+COGS,Cost of Product,Customer Success,Occupancy,,125
+COGS,Cost of Product,Customer Success,Occupancy,,0
+COGS,Cost of Product,Customer Success,Personnel,,3702
+COGS,Cost of Product,Customer Success,T&E/Other,,3350
+COGS,Cost of Product,Customer Success,T&E/Other,,8604
+COGS,Cost of Product,Customer Success,T&E/Other,,0
+COGS,Cost of Product,Technical Support,Bonus,,2141
+COGS,Cost of Product,Technical Support,External Contractors,,5590
+COGS,Cost of Product,Technical Support,Occupancy,,667
+COGS,Cost of Product,Technical Support,Occupancy,,108683
+COGS,Cost of Product,Technical Support,Occupancy,,43
+COGS,Cost of Product,Technical Support,Personnel,,0
+COGS,Cost of Product,Technical Support,Personnel,,3672
+COGS,Cost of Product,Technical Support,Personnel,,5865
+COGS,Cost of Product,Technical Support,Personnel,,4085
+COGS,Cost of Product,Technical Support,Personnel,,980
+COGS,Cost of Product,Technical Support,Personnel,,5061
+COGS,Cost of Product,Technical Support,Personnel,,4038
+COGS,Cost of Product,Technical Support,Personnel,,4924
+COGS,Cost of Product,Technical Support,Personnel,,1230
+COGS,Cost of Product,Technical Support,Personnel,,87028
+COGS,Cost of Product,Technical Support,Personnel,,4743
+COGS,Cost of Product,Technical Support,Personnel,,4274
+COGS,Cost of Product,Technical Support,T&E/Other,,0
+COGS,Cost of Product,Technical Support,T&E/Other,,2197
+COGS,Cost of Product,Technical Support,T&E/Other,,0
+COGS,Cost of PSO,Education and Training,Bonus,,3870
+COGS,Cost of PSO,Education and Training,Hosting,,3870
+COGS,Cost of PSO,Education and Training,Hosting,,1931
+COGS,Cost of PSO,Education and Training,Occupancy,,12590
+COGS,Cost of PSO,Education and Training,Personnel,,10002
+COGS,Cost of PSO,Education and Training,Personnel,,727
+COGS,Cost of PSO,Education and Training,Personnel,,5194
+COGS,Cost of PSO,Education and Training,T&E/Other,,16602
+COGS,Cost of PSO,Professional Services,Bonus,,11825
+COGS,Cost of PSO,Professional Services,Commissions,,-8609
+COGS,Cost of PSO,Professional Services,Commissions,,520
+COGS,Cost of PSO,Professional Services,Occupancy,,28862
+COGS,Cost of PSO,Professional Services,Personnel,,7289
+COGS,Cost of PSO,Professional Services,Personnel,,5345
+COGS,Cost of PSO,Professional Services,Personnel,,19999
+COGS,Cost of PSO,Professional Services,Personnel,,985
+COGS,Cost of Product,Cloud Operations,External Contractors,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,T&E/Other,,0
+COGS,Cost of Product,Cloud Operations,T&E/Other,,0
+COGS,Cost of Product,Technical Support,External Contractors,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,8308
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Occupancy,,4468
+COGS,Cost of Product,Cloud Operations,Outsourced Services,,0
+COGS,Cost of Product,Cloud Operations,External Contractors,,39891
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,35462
+COGS,Cost of Product,Cloud Operations,Hosting,,21500
+COGS,Cost of Product,Cloud Operations,Hosting,,325510
+COGS,Cost of Product,Cloud Operations,Hosting,,29128
+COGS,Cost of Product,Cloud Operations,Hosting,,47554
+COGS,Cost of Product,Cloud Operations,Hosting,,311084
+COGS,Cost of Product,Cloud Operations,Hosting,,664913
+COGS,Cost of Product,Cloud Operations,Hosting,,-6450
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,999681
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,149640
+COGS,Cost of Product,Cloud Operations,Hosting,,138666
+COGS,Cost of Product,Cloud Operations,Hosting,,5444
+COGS,Cost of Product,Cloud Operations,Hosting,,10750
+COGS,Cost of Product,Cloud Operations,Hosting,,119127
+COGS,Cost of Product,Cloud Operations,Occupancy,,33390
+COGS,Cost of Product,Cloud Operations,Occupancy,,5375
+COGS,Cost of Product,Cloud Operations,Occupancy,,0
+COGS,Cost of Product,Cloud Operations,Outsourced Services,,3698
+COGS,Cost of Product,Cloud Operations,Personnel,,538
+COGS,Cost of Product,Cloud Operations,Personnel,,765
+COGS,Cost of Product,Cloud Operations,Personnel,,679
+COGS,Cost of Product,Cloud Operations,Personnel,,507
+COGS,Cost of Product,Cloud Operations,Personnel,,563
+COGS,Cost of Product,Cloud Operations,T&E/Other,,0
+COGS,Cost of Product,Cloud Operations,T&E/Other,,1066
+COGS,Cost of Product,Cloud Operations,T&E/Other,,-13
+COGS,Cost of Product,Customer Success,Hosting,,1054
+COGS,Cost of Product,Customer Success,Occupancy,,370
+COGS,Cost of Product,Customer Success,Occupancy,,77899
+COGS,Cost of Product,Customer Success,Outsourced Services,,6923
+COGS,Cost of Product,Customer Success,Personnel,,7039
+COGS,Cost of Product,Customer Success,Personnel,,18899
+COGS,Cost of Product,Customer Success,Personnel,,15506
+COGS,Cost of Product,Customer Success,Personnel,,7568
+COGS,Cost of Product,Customer Success,Personnel,,6828
+COGS,Cost of Product,Customer Success,Personnel,,9021
+COGS,Cost of Product,Customer Success,Personnel,,25813
+COGS,Cost of Product,Customer Success,Personnel,,0
+COGS,Cost of Product,Customer Success,Personnel,,70004
+COGS,Cost of Product,Customer Success,T&E/Other,,8110
+COGS,Cost of Product,Customer Success,T&E/Other,,8179
+COGS,Cost of Product,Customer Success,T&E/Other,,18352
+COGS,Cost of Product,Customer Success,T&E/Other,,9666
+COGS,Cost of Product,Customer Success,T&E/Other,,4240
+COGS,Cost of Product,Customer Success,T&E/Other,,645
+COGS,Cost of Product,Customer Success,T&E/Other,,3247
+COGS,Cost of Product,Customer Success,T&E/Other,,6218
+COGS,Cost of Product,Technical Support,External Contractors,,37010
+COGS,Cost of Product,Technical Support,Hosting,,3199
+COGS,Cost of PSO,Professional Services,Hosting,,2576
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,108971
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,25779
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,68770
+COGS,Cost of Product,Cloud Operations,Hosting,,7228
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,123814
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,13700
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,57654
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,129525
+COGS,Cost of Product,Cloud Operations,Occupancy,,32297
+COGS,Cost of Product,Cloud Operations,Occupancy,,0
+COGS,Cost of Product,Cloud Operations,Outsourced Services,,3698
+COGS,Cost of Product,Cloud Operations,Personnel,,697
+COGS,Cost of Product,Cloud Operations,Personnel,,998
+COGS,Cost of Product,Cloud Operations,Personnel,,7400
+COGS,Cost of Product,Cloud Operations,Personnel,,886
+COGS,Cost of Product,Cloud Operations,Personnel,,658
+COGS,Cost of Product,Cloud Operations,Personnel,,45129
+COGS,Cost of Product,Cloud Operations,Personnel,,6205
+COGS,Cost of Product,Cloud Operations,Personnel,,735
+COGS,Cost of Product,Cloud Operations,Personnel,,6992
+COGS,Cost of Product,Cloud Operations,T&E/Other,,968
+COGS,Cost of Product,Cloud Operations,T&E/Other,,-53415
+COGS,Cost of Product,Customer Success,Commissions,,1032
+COGS,Cost of Product,Customer Success,Commissions,,5908
+COGS,Cost of Product,Customer Success,Commissions,,9632
+COGS,Cost of Product,Customer Success,Commissions,,9632
+COGS,Cost of Product,Customer Success,Hosting,,249
+COGS,Cost of Product,Customer Success,Occupancy,,0
+COGS,Cost of Product,Customer Success,Occupancy,,35570
+COGS,Cost of Product,Customer Success,Outsourced Services,,980
+COGS,Cost of Product,Customer Success,Personnel,,-559
+COGS,Cost of Product,Customer Success,Personnel,,2060
+COGS,Cost of Product,Customer Success,Personnel,,16835
+COGS,Cost of Product,Customer Success,Personnel,,8798
+COGS,Cost of Product,Customer Success,Personnel,,13575
+COGS,Cost of Product,Customer Success,Personnel,,2404
+COGS,Cost of Product,Customer Success,Personnel,,0
+COGS,Cost of Product,Customer Success,Personnel,,59839
+COGS,Cost of Product,Customer Success,Personnel,,12406
+COGS,Cost of Product,Customer Success,Personnel,,16804
+COGS,Cost of Product,Customer Success,Personnel,,0
+COGS,Cost of Product,Customer Success,Personnel,,8901
+COGS,Cost of Product,Customer Success,Personnel,,0
+COGS,Cost of Product,Customer Success,T&E/Other,,0
+COGS,Cost of Product,Customer Success,T&E/Other,,1883
+COGS,Cost of Product,Customer Success,T&E/Other,,6837
+COGS,Cost of Product,Customer Success,T&E/Other,,675
+COGS,Cost of Product,Customer Success,T&E/Other,,2391
+COGS,Cost of Product,Customer Success,T&E/Other,,-165025
+COGS,Cost of Product,Customer Success,T&E/Other,,3677
+COGS,Cost of Product,Customer Success,T&E/Other,,7706
+COGS,Cost of Product,Customer Success,T&E/Other,,2438
+COGS,Cost of Product,Technical Support,External Contractors,,67080
+COGS,Cost of Product,Technical Support,Occupancy,,14994
+COGS,Cost of Product,Technical Support,Personnel,,0
+COGS,Cost of Product,Technical Support,Personnel,,1514
+COGS,Cost of Product,Technical Support,Personnel,,6300
+COGS,Cost of Product,Technical Support,Personnel,,8204
+COGS,Cost of Product,Technical Support,Personnel,,0
+COGS,Cost of Product,Technical Support,Personnel,,19999
+COGS,Cost of Product,Technical Support,Personnel,,873
+COGS,Cost of PSO,Education and Training,Bonus,,4515
+COGS,Cost of PSO,Education and Training,Occupancy,,14994
+COGS,Cost of PSO,Education and Training,Personnel,,9292
+COGS,Cost of PSO,Education and Training,Personnel,,19999
+COGS,Cost of PSO,Education and Training,Personnel,,4807
+COGS,Cost of PSO,Education and Training,T&E/Other,,172
+COGS,Cost of PSO,Professional Services,Bonus,,68955
+COGS,Cost of PSO,Professional Services,Commissions,,2404
+COGS,Cost of PSO,Professional Services,External Contractors,,0
+COGS,Cost of PSO,Professional Services,External Contractors,,40394
+COGS,Cost of PSO,Professional Services,Occupancy,,30083
+COGS,Cost of PSO,Professional Services,Outsourced Services,,90300
+COGS,Cost of PSO,Professional Services,Outsourced Services,,50955
+COGS,Cost of PSO,Professional Services,Personnel,,1062
+COGS,Cost of PSO,Professional Services,Personnel,,4807
+COGS,Cost of PSO,Professional Services,Personnel,,16030
+COGS,Cost of PSO,Professional Services,Personnel,,-3234
+COGS,Cost of PSO,Professional Services,Personnel,,10354
+COGS,Cost of PSO,Professional Services,Personnel,,8398
+COGS,Cost of PSO,Professional Services,Personnel,,13231
+COGS,Cost of PSO,Professional Services,Personnel,,0
+COGS,Cost of PSO,Professional Services,Personnel,,42351
+COGS,Cost of PSO,Professional Services,Personnel,,0
+COGS,Cost of PSO,Professional Services,T&E/Other,,30754
+COGS,Cost of PSO,Professional Services,T&E/Other,,4395
+COGS,Cost of PSO,Professional Services,T&E/Other,,7869
+COGS,Cost of PSO,Professional Services,T&E/Other,,3814
+COGS,Cost of PSO,Professional Services,T&E/Other,,16426
+COGS,Cost of PSO,Professional Services,T&E/Other,,7198
+COGS,Cost of PSO,Professional Services,T&E/Other,,7409
+COGS,Cost of PSO,Professional Services,T&E/Other,,2554
+COGS,Cost of PSO,Professional Services,T&E/Other,,-43151
+COGS,Cost of Product,Cloud Operations,Commissions,,-2640
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,90459
+COGS,Cost of Product,Cloud Operations,Hosting,,63115
+COGS,Cost of Product,Cloud Operations,Hosting,,430
+COGS,Cost of Product,Cloud Operations,Hosting,,9998
+COGS,Cost of Product,Cloud Operations,Hosting,,23220
+COGS,Cost of Product,Cloud Operations,Hosting,,300957
+COGS,Cost of Product,Cloud Operations,Hosting,,10987
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,9563
+COGS,Cost of Product,Cloud Operations,Hosting,,385985
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,216888
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,147808
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,8088
+COGS,Cost of Product,Cloud Operations,Hosting,,15863
+COGS,Cost of Product,Cloud Operations,Hosting,,100676
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,4369
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Occupancy,,1754
+COGS,Cost of Product,Cloud Operations,Occupancy,,142489
+COGS,Cost of Product,Cloud Operations,Occupancy,,0
+COGS,Cost of Product,Cloud Operations,Outsourced Services,,452
+COGS,Cost of Product,Cloud Operations,Personnel,,611
+COGS,Cost of Product,Cloud Operations,Personnel,,4936
+COGS,Cost of Product,Cloud Operations,Personnel,,6622
+COGS,Cost of Product,Cloud Operations,Personnel,,1023
+COGS,Cost of Product,Cloud Operations,Personnel,,4769
+COGS,Cost of Product,Cloud Operations,Personnel,,5719
+COGS,Cost of Product,Cloud Operations,Personnel,,5994
+COGS,Cost of Product,Cloud Operations,Personnel,,4618
+COGS,Cost of Product,Cloud Operations,Personnel,,1049
+COGS,Cost of Product,Cloud Operations,Personnel,,4713
+COGS,Cost of Product,Cloud Operations,Personnel,,4132
+COGS,Cost of Product,Cloud Operations,Personnel,,74876
+COGS,Cost of Product,Cloud Operations,Personnel,,1613
+COGS,Cost of Product,Cloud Operations,Personnel,,4395
+COGS,Cost of Product,Cloud Operations,Personnel,,916
+COGS,Cost of Product,Cloud Operations,T&E/Other,,185
+COGS,Cost of Product,Cloud Operations,T&E/Other,,5633
+COGS,Cost of Product,Cloud Operations,T&E/Other,,2559
+COGS,Cost of Product,Cloud Operations,T&E/Other,,8217
+COGS,Cost of Product,Cloud Operations,T&E/Other,,37758
+COGS,Cost of Product,Cloud Operations,T&E/Other,,9636
+COGS,Cost of Product,Customer Success,Bonus,,131967
+COGS,Cost of Product,Customer Success,Commissions,,-9254
+COGS,Cost of Product,Customer Success,Hosting,,14749
+COGS,Cost of Product,Customer Success,Hosting,,17996
+COGS,Cost of Product,Customer Success,Occupancy,,18533
+COGS,Cost of Product,Customer Success,Personnel,,0
+COGS,Cost of Product,Customer Success,Personnel,,3109
+COGS,Cost of Product,Customer Success,Personnel,,-2258
+COGS,Cost of Product,Customer Success,Personnel,,5397
+COGS,Cost of Product,Customer Success,Personnel,,10002
+COGS,Cost of Product,Customer Success,Personnel,,0
+COGS,Cost of Product,Customer Success,T&E/Other,,5564
+COGS,Cost of Product,Customer Success,T&E/Other,,5762
+COGS,Cost of Product,Customer Success,T&E/Other,,2227
+COGS,Cost of Product,Customer Success,T&E/Other,,3745
+COGS,Cost of Product,Customer Success,T&E/Other,,1613
+COGS,Cost of Product,Customer Success,T&E/Other,,0
+COGS,Cost of Product,Technical Support,Bonus,,81154
+COGS,Cost of Product,Technical Support,Commissions,,-5908
+COGS,Cost of Product,Technical Support,Hosting,,886
+COGS,Cost of Product,Technical Support,Occupancy,,0
+COGS,Cost of Product,Technical Support,Occupancy,,18533
+COGS,Cost of Product,Technical Support,Outsourced Services,,5483
+COGS,Cost of Product,Technical Support,Personnel,,-1621
+COGS,Cost of Product,Technical Support,Personnel,,10002
+COGS,Cost of Product,Technical Support,Personnel,,7886
+COGS,Cost of Product,Technical Support,Personnel,,0
+COGS,Cost of Product,Technical Support,T&E/Other,,5728
+COGS,Cost of Product,Technical Support,T&E/Other,,3982
+COGS,Cost of Product,Technical Support,T&E/Other,,0
+COGS,Cost of PSO,Education and Training,Bonus,,61851
+COGS,Cost of PSO,Education and Training,Commissions,,-692
+COGS,Cost of PSO,Education and Training,Hosting,,757
+COGS,Cost of PSO,Education and Training,Occupancy,,6437
+COGS,Cost of PSO,Education and Training,Personnel,,-280
+COGS,Cost of PSO,Education and Training,Personnel,,3861
+COGS,Cost of PSO,Education and Training,T&E/Other,,0
+COGS,Cost of PSO,Education and Training,T&E/Other,,722
+COGS,Cost of PSO,Education and Training,T&E/Other,,469
+COGS,Cost of PSO,Professional Services,Bonus,,40652
+COGS,Cost of PSO,Professional Services,Commissions,,-3449
+COGS,Cost of PSO,Professional Services,Hosting,,2051
+COGS,Cost of PSO,Professional Services,Personnel,,-1402
+COGS,Cost of PSO,Professional Services,Personnel,,0
+COGS,Cost of PSO,Professional Services,T&E/Other,,4902
+COGS,Cost of PSO,Professional Services,T&E/Other,,3599
+COGS,Cost of PSO,Professional Services,T&E/Other,,2339
+COGS,Cost of PSO,Professional Services,T&E/Other,,5741
+COGS,Cost of PSO,Professional Services,T&E/Other,,0
+COGS,Cost of Product,Cloud Operations,Commissions,,-4016
+COGS,Cost of Product,Cloud Operations,Commissions,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,111306
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,168
+COGS,Cost of Product,Cloud Operations,Hosting,,280915
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,43937
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,15368
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,96260
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,1157
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,24489
+COGS,Cost of Product,Cloud Operations,Hosting,,65192
+COGS,Cost of Product,Cloud Operations,Hosting,,26011
+COGS,Cost of Product,Cloud Operations,Hosting,,0
+COGS,Cost of Product,Cloud Operations,Hosting,,2335
+COGS,Cost of Product,Cloud Operations,Hosting,,32323
+COGS,Cost of Product,Cloud Operations,Occupancy,,19045
+COGS,Cost of Product,Cloud Operations,Occupancy,,0
+COGS,Cost of Product,Cloud Operations,Personnel,,6579
+COGS,Cost of Product,Cloud Operations,Personnel,,-5839
+COGS,Cost of Product,Cloud Operations,Personnel,,452
+COGS,Cost of Product,Cloud Operations,Personnel,,-8149
+COGS,Cost of Product,Cloud Operations,Personnel,,0
+COGS,Cost of Product,Cloud Operations,Personnel,,-6945
+COGS,Cost of Product,Cloud Operations,Personnel,,0
+COGS,Cost of Product,Cloud Operations,Personnel,,6016
+COGS,Cost of Product,Cloud Operations,Personnel,,6953
+COGS,Cost of Product,Cloud Operations,Personnel,,-5242
+COGS,Cost of Product,Cloud Operations,Personnel,,11163
+COGS,Cost of Product,Cloud Operations,Personnel,,6738
+COGS,Cost of Product,Cloud Operations,Personnel,,-5186
+COGS,Cost of Product,Cloud Operations,Personnel,,0
+COGS,Cost of Product,Cloud Operations,T&E/Other,,0
+COGS,Cost of Product,Customer Success,Commissions,,-27451
+COGS,Cost of Product,Customer Success,Commissions,,0
+COGS,Cost of Product,Customer Success,External Contractors,,99098
+COGS,Cost of Product,Customer Success,Occupancy,,25151
+COGS,Cost of Product,Customer Success,Personnel,,8819
+COGS,Cost of Product,Customer Success,Personnel,,10440
+COGS,Cost of Product,Customer Success,Personnel,,10092
+COGS,Cost of Product,Customer Success,Personnel,,3148
+COGS,Cost of Product,Customer Success,Personnel,,1376
+COGS,Cost of Product,Customer Success,Personnel,,14478
+COGS,Cost of Product,Customer Success,Personnel,,22
+COGS,Cost of Product,Customer Success,Personnel,,1462
+COGS,Cost of Product,Customer Success,Personnel,,6080
+COGS,Cost of Product,Customer Success,Personnel,,0
+COGS,Cost of Product,Customer Success,Personnel,,18894
+COGS,Cost of Product,Customer Success,Personnel,,0
+COGS,Cost of Product,Customer Success,Personnel,,0
+COGS,Cost of Product,Customer Success,T&E/Other,,1638
+COGS,Cost of Product,Customer Success,T&E/Other,,576
+COGS,Cost of Product,Customer Success,T&E/Other,,2081
+COGS,Cost of Product,Customer Success,T&E/Other,,744
+COGS,Cost of Product,Customer Success,T&E/Other,,1140
+COGS,Cost of Product,Customer Success,T&E/Other,,104159
+COGS,Cost of Product,Technical Support,Bonus,,1935
+COGS,Cost of Product,Technical Support,Commissions,,-5504
+COGS,Cost of Product,Technical Support,Commissions,,0
+COGS,Cost of Product,Technical Support,External Contractors,,269791
+COGS,Cost of Product,Technical Support,Occupancy,,24213
+COGS,Cost of Product,Technical Support,Occupancy,,133
+COGS,Cost of Product,Technical Support,Personnel,,0
+COGS,Cost of Product,Technical Support,Personnel,,5801
+COGS,Cost of Product,Technical Support,Personnel,,5104
+COGS,Cost of Product,Technical Support,Personnel,,7258
+COGS,Cost of Product,Technical Support,Personnel,,12642
+COGS,Cost of Product,Technical Support,Personnel,,8037
+COGS,Cost of Product,Technical Support,Personnel,,4992
+COGS,Cost of Product,Technical Support,Personnel,,0
+COGS,Cost of Product,Technical Support,T&E/Other,,0
+COGS,Cost of Product,Technical Support,T&E/Other,,998
+COGS,Cost of Product,Technical Support,T&E/Other,,1514
+COGS,Cost of PSO,Education and Training,Bonus,,3126
+COGS,Cost of PSO,Education and Training,Commissions,,1664
+COGS,Cost of PSO,Education and Training,Commissions,,0
+COGS,Cost of PSO,Education and Training,Occupancy,,4038
+COGS,Cost of PSO,Education and Training,Personnel,,0
+COGS,Cost of PSO,Education and Training,Personnel,,5177
+COGS,Cost of PSO,Education and Training,Personnel,,2107
+COGS,Cost of PSO,Education and Training,Personnel,,0
+COGS,Cost of PSO,Education and Training,T&E/Other,,740
+COGS,Cost of PSO,Funded R&D,Commissions,,-5384
+COGS,Cost of PSO,Funded R&D,Occupancy,,3810
+COGS,Cost of PSO,Funded R&D,Personnel,,916
+COGS,Cost of PSO,Funded R&D,Personnel,,2107
+COGS,Cost of PSO,Professional Services,Bonus,,52039
+COGS,Cost of PSO,Professional Services,Commissions,,21685
+COGS,Cost of PSO,Professional Services,Commissions,,0
+COGS,Cost of PSO,Professional Services,External Contractors,,0
+COGS,Cost of PSO,Professional Services,External Contractors,,165163
+COGS,Cost of PSO,Professional Services,External Contractors,,95133
+COGS,Cost of PSO,Professional Services,Occupancy,,0
+COGS,Cost of PSO,Professional Services,Occupancy,,714
+COGS,Cost of PSO,Professional Services,Occupancy,,50835
+COGS,Cost of PSO,Professional Services,Personnel,,0
+COGS,Cost of PSO,Professional Services,Personnel,,6343
+COGS,Cost of PSO,Professional Services,Personnel,,5908
+COGS,Cost of PSO,Professional Services,Personnel,,9735
+COGS,Cost of PSO,Professional Services,Personnel,,7147
+COGS,Cost of PSO,Professional Services,Personnel,,10230
+COGS,Cost of PSO,Professional Services,Personnel,,8665
+COGS,Cost of PSO,Professional Services,Personnel,,2279
+COGS,Cost of PSO,Professional Services,Personnel,,6080
+COGS,Cost of PSO,Professional Services,Personnel,,8647
+COGS,Cost of PSO,Professional Services,Personnel,,0
+COGS,Cost of PSO,Professional Services,Personnel,,55513
+COGS,Cost of PSO,Professional Services,Personnel,,8432
+COGS,Cost of PSO,Professional Services,Personnel,,7439
+COGS,Cost of PSO,Professional Services,Personnel,,8609
+COGS,Cost of PSO,Professional Services,Personnel,,6717
+COGS,Cost of PSO,Professional Services,Personnel,,17
+COGS,Cost of PSO,Professional Services,Personnel,,8742
+COGS,Cost of PSO,Professional Services,Personnel,,0
+COGS,Cost of PSO,Professional Services,T&E/Other,,13124
+COGS,Cost of PSO,Professional Services,T&E/Other,,13
+COGS,Cost of PSO,Professional Services,T&E/Other,,1140
+COGS,Cost of PSO,Professional Services,T&E/Other,,46466
+COGS,Cost of PSO,Professional Services,T&E/Other,,2068
+COGS,Cost of Product,Cloud Operations,Hosting,,19350
+COGS,Cost of Product,Cloud Operations,Hosting,,195336
+COGS,Cost of Product,Cloud Operations,Hosting,,593
+COGS,Cost of Product,Cloud Operations,Hosting,,3651
+COGS,Cost of Product,Cloud Operations,Hosting,,1281
+COGS,Cost of Product,Cloud Operations,Hosting,,215
+COGS,Cost of Product,Cloud Operations,Personnel,,6304
+COGS,Cost of Product,Cloud Operations,Personnel,,0
+COGS,Cost of Product,Customer Success,T&E/Other,,258
+COGS,Cost of PSO,Professional Services,External Contractors,,12900
+COGS,Cost of PSO,Professional Services,Occupancy,,81571
+COGS,Cost of PSO,Professional Services,Outsourced Services,,2184
+COGS,Cost of PSO,Professional Services,Personnel,,8394
+COGS,Cost of PSO,Professional Services,Personnel,,7688
+COGS,Cost of PSO,Professional Services,Personnel,,13756
+COGS,Cost of PSO,Professional Services,Personnel,,10372
+COGS,Cost of PSO,Professional Services,Personnel,,2516
+COGS,Cost of PSO,Professional Services,Personnel,,0
+COGS,Cost of PSO,Professional Services,Personnel,,-158163
+COGS,Cost of PSO,Professional Services,Personnel,,6201
+COGS,Cost of PSO,Professional Services,T&E/Other,,516
+COGS,Cost of PSO,Professional Services,T&E/Other,,6785
+COGS,Cost of PSO,Professional Services,T&E/Other,,42789
+COGS,Cost of PSO,Professional Services,T&E/Other,,645
+COGS,Cost of PSO,Professional Services,T&E/Other,,3836
